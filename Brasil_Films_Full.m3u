@@ -7,16 +7,31 @@
 ############################################################################ Filmes de Aventura
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314299992/s592/pica-pau-campo-de-ferias" group-title="Filmes de Aventura",Pica-Pau: Campo de Férias 2024
-https://abra--7537ca20.api.nocturnal-narwhal.buzz/62f8300b28f57b3a6c9af20ae7635de35f09270e/Pica-Pau%20-%20As%20F%C3%A9rias%20no%20Acampamento%202024%201080p%20WEB-DL%20DUAL%205.1%2FPica-Pau%20As%20F%C3%A9rias%20no%20Acampamento%202024%201080p%20WEB-DL%20DUAL%205.1.mkv~hls/index.m3u8?user-id=ea25a688ae54425a8310ce85f4b0b45f&download-id=cebb18d81d88271320052ca66ed1bbba&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxODcuODYuMjQ3LjE0OCIsImRvbWFpbiI6IndlYnRvci5pbyIsImV4cCI6MTcxNDk0MzM4Miwic2Vzc2lvbklEIjoiR1lsdy1HT0pucUFmdmZRT0d5VS1YYmpVblQ1YllwQTQiLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.DSJz0HiO-wBH7rJMIY53DAVpBdUFkeYi5G31OysTp84&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=62f8300b28f57b3a6c9af20ae7635de35f09270e&file=0&ts=0&accept=video/mp4;%20codecs=%22avc1.640029,%20mp4a.40.2%22&audio=2&session=5827626
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 2024
-https://abra--2d8fde14.api.nocturnal-narwhal.buzz/2356621676eeabcbca3cfa3986ff0c1b6a7955d1/Knuckles.S01.1080p.WEB-DL.DUAL.5.1%2FKnuckles.S01E01.1080p.WEB-DL.DUAL.5.1.mkv~hls/index.m3u8?user-id=644f54d2a5e564dbd2fb108a0327fa6c&download-id=e0d5f6a90cd677dd279b4fe09325d677&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxODcuODYuMjQ3LjI1MSIsImRvbWFpbiI6IndlYnRvci5pbyIsImV4cCI6MTcxNDg4NDQyMiwic2Vzc2lvbklEIjoiTGNkbERHNHpXZGNsdEkxeTNJTlNmQ1ljSFAyRVRVQlMiLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.tuu7Z5htPKYYTsZ9WmeJ_rV3yDWKLPdedrYpwIsTGkc&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x1
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=2356621676eeabcbca3cfa3986ff0c1b6a7955d1&file=0&ts=0&accept=video/mp4;%20codecs=%22avc1.640028,%20mp4a.40.2%22&audio=1&session=8435276
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x2
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=2356621676eeabcbca3cfa3986ff0c1b6a7955d1&file=4&ts=10.01&accept=video/mp4;%20codecs=%22avc1.640028,%20mp4a.40.2%22&audio=1&session=3380031
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x3
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=2356621676eeabcbca3cfa3986ff0c1b6a7955d1&file=5&ts=6.006&accept=video/mp4;%20codecs=%22avc1.640028,%20mp4a.40.2%22&audio=1&session=7801866
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x4
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=2356621676eeabcbca3cfa3986ff0c1b6a7955d1&file=6&ts=3.003&accept=video/mp4;%20codecs=%22avc1.640028,%20mp4a.40.2%22&audio=1&session=3685749
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x5
+https://str12.vtube.network/hls/x5s4vaq3ifyki6cgapdmrknth4no4lmx5ag2orll5kvk67mls6yibfz4hg6a/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314575023/s592/knuckles" group-title="Filmes de Aventura",Knuckles 1x6
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=2356621676eeabcbca3cfa3986ff0c1b6a7955d1&file=8&ts=10.01&accept=video/mp4;%20codecs=%22avc1.640028,%20mp4a.40.2%22&audio=1&session=2480449
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/314109206/s592/arthur-the-king" group-title="Filmes de Aventura",Uma Prova de Coragem 2024
-https://abra--7537ca20.api.nocturnal-narwhal.buzz/7e95bd7014cb2fe4f2172232478288af3e8591ea/Arthur.the.King.2024.720p.CAMRip.PO.Dublado.mkv~hls/index.m3u8?user-id=4b939b22016200e7825bb2513106c396&download-id=bbc60d14bbc3026f83a585354e042f55&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxODcuODYuMjQ3LjI1MSIsImRvbWFpbiI6IndlYnRvci5pbyIsImV4cCI6MTcxNDY3MDc4MSwic2Vzc2lvbklEIjoiTVloT0Q1d0xVNUFTbDVMblpHa2gwSDIzMUJ5Q2dDQlUiLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.HqNwPrYoE2RmIV-obo6NnKOtYJAGG3bB9jHfmfm0ZJ0&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=7e95bd7014cb2fe4f2172232478288af3e8591ea&file=0&ts=0&accept=video/mp4;%20codecs=%22avc1.640029,%20mp4a.40.2%22&audio=1&session=40990271
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/313230218/s592/monkey-man" group-title="Filmes de Aventura",Fúria Primitiva 2024
-https://abra--7537cb52.api.nocturnal-narwhal.buzz/bf8f5f7af9909edf473fe17c91402e45991be914/Monkey.Man.2024.720p.CAMRip.Dublado.mkv~hls/index.m3u8?user-id=8758d7b63e24553fb5f781cb04cec349&download-id=f5e3fa3645cdf695543dfe62d9196738&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlbW90ZUFkZHJlc3MiOiIxODcuODYuMjQ3LjI1MSIsImRvbWFpbiI6IndlYnRvci5pbyIsImV4cCI6MTcxNDY3Mzc4OSwic2Vzc2lvbklEIjoidHJxVEYwSkNwczlJMlFJZDdBVWlSeDBXUTNlaGFONHEiLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.LhsdBAoVTugsIGqRAx4qgJnXJPfXp1qdI-chM_9G-ks&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
+http://127.0.0.1:38565/stream?token=38fe7572199ec1654cec164454404b0652380d2e&localauth=localapiebed9383952fa8de:&sid=bf8f5f7af9909edf473fe17c91402e45991be914&file=0&ts=0&accept=video/mp4;%20codecs=%22avc1.640029,%20mp4a.40.2%22&audio=1&session=7066009
 
 ############################################################################ Filmes
 
