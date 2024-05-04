@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",01/05/24
 https://youtu.be/g7tJtrDiTtM?t=244
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL",01/05/24
+https://youtu.be/g7tJtrDiTtM?t=244
+
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC TV Maringa HD
@@ -1248,34 +1251,34 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://195.128.248.216:8080/tim334/as514d5as/121374
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/33739
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-http://195.128.248.216:8080/tim334/as514d5as/22545
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/380
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-http://195.128.248.216:8080/tim334/as514d5as/64703
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://195.128.248.216:8080/tim334/as514d5as/22592
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD [Alter] 
 https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-http://195.128.248.216:8080/tim334/as514d5as/22467
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/110683
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
-https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
-https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
@@ -1293,10 +1296,10 @@ https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
 https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Canais | INFANTIL", DREAM WORKS
-https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil 
-https://cdn-1.nxplay.com.br/dcpc/index.m3u8
+https://cdn-3.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgurUAguc.jpg" group-title="Canais | INFANTIL",ADULT SWIM
 
@@ -1712,7 +1715,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="Canais | ABERTO",Vivax TV
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8?ManoTV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/21W4K2J.png" group-title="Canais | ABERTO",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
