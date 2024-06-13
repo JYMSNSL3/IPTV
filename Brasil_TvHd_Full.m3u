@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",13/06/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",14/06/24
 https://youtu.be/g7tJtrDiTtM?t=244
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL 3",BY JYMSNSL
@@ -773,6 +773,18 @@ https://brflu.walk-tv.com/5836/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD 2
 https://watch.vcdn.in/tntnovelas/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2000
+http://24hrs.homelinux.com:8080/24H-malhacao2000/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2001
+http://24hrs.homelinux.com:8080/24H-malhacao2001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2002
+http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2008
+http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD 
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 
@@ -1060,7 +1072,7 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31483
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Canais | FILMES E SERIES",Dark Matter
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8?ManoTV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
