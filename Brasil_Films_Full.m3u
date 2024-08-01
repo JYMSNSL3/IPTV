@@ -2,1406 +2,324 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",19/05/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",01/08/24
 https://youtu.be/g7tJtrDiTtM?t=244
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL",By JymsNsl
 https://youtu.be/g7tJtrDiTtM?t=244
 
-############################################################################ Filmes | Legendados
+############################################################################ FILMES
 
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/313024921/s592/bob-marley-one-love" group-title="Filmes",Bob Marley: One Love 2024
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Deadpool & Wolverine
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6263850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0120693.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12631486.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Morando com o Crush
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt23456602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Medidas Extremas
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12330400.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Zoolander
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0196229.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velozes & Furiosos 10
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5433140.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Vizinho Mafioso
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0190138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Free Guy: Assumindo o Controle
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6264654.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Destino de Júpiter
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt1617661.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Goyo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt32598483.mp4
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",MR-9: Missão Mortal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9044418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Ataque dos Tubarões
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21816892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Treinado Para Matar
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt15029508.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Nikita: Criada para Matar
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0100263.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Garfield Fora d Casa
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5779228.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Tira da Pesada 4: Axel Foley
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt3083016.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Exorcismo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11240348LEG.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Caçada Fantasma
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt25730490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Demônio Entre Nós
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt19895130.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feliz Aniversário Para Mim
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0082498.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Até a Morte: Sobreviver é a Melhor Vingança
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11804152.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ignição
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt2054778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Velocidade Do Silêncio
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0836633.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ponto De Ruptura
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0870671.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Corrida Final
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0865293.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Gato de Sorte
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt7959138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bad Boys: Até o Fim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt4919268.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Swingers – Troca de Casais
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10297320.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Relacionamento Aberto
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13868030.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Busca do Barco Perdido
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13243448.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vidas Importam
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8171000.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Valorize ou Morra
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15790974.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fugindo da Morte
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13852690.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Tentação 
+http://shd1.doramasapp.xyz/sfgerg54yrt/SHD1/76479/4x2.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mulher nota 1000
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0090305.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt1659337.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312665951/s592/a-arte-de-amar-2024" group-title="Filmes",A Arte d Amar 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte d Amar
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28355490.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312751198/s592/murder-mubarak" group-title="Filmes",Assassinato de Elite 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Assassinato de Elite 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt27028399.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311713011/s592/madame-teia" group-title="Filmes",Madame Teia 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Madame Teia
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312467584/s592/o-retorno-dos-thundermans" group-title="Filmes",O Retorno dos Thundermans 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Lenda do Cavaleiro Sem Cabeça
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0051850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Retorno dos Thundermans
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt26943420.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312531712/s592/ricky-stanicky" group-title="Filmes",Ricky Stanicky 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ricky Stanicky
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1660648.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312531815/s592/damsel-2023" group-title="Filmes",Donzela 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Donzela 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13452446.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/192157583/s592/o-rececionista" group-title="Filmes",O Recepcionista 2020
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Recepcionista
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312751707/s592/jaque-mate" group-title="Filmes",Xaque Mate 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Xaque Mate
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt30850554.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/197620495/s592/a-guerra-do-hamburguer" group-title="Filmes",A Guerra do Hambúrguer 1997
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119215.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307642436/s592/good-burger-2" group-title="Filmes",Good Burger 2 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 2
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt25289836.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311662879/s592/the-beekeeper-2024" group-title="Filmes",Beekeeper Rede de Vingança 2024 
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Beekeeper Rede d Vingança 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15314262.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312371481/s592/dos-vacas-y-una-burra" group-title="Filmes",O Vale do amor 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Vale do amor
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13496136.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305564432/s592/um-desastre-maravilhoso" group-title="Filmes",Beautiful Disaster - Um Desastre Maravilhoso 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Belo desastre
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312376747/s592/lifemark" group-title="Filmes",Marcas da Vida 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Marcas da Vida
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt20864704.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/137718283/s592/take-me" group-title="Filmes",Leve-me 2017
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Leve-me
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6598626.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/262590659/s592/through-my-window" group-title="Filmes",Através da minha Janela 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", 2022 Através da minha Janela
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14463484.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306057036/s592/through-my-window-across-the-sea" group-title="Filmes",Através da minha Janela 2: Além do Mar 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2023  Através da minha Janela 2: Além do Mar
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21245882.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312587122/s592/a-traves-de-tu-mirada" group-title="Filmes",Através da minha Janela 3: Olho nos olhos 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2024Através da minha Janela 3: Olho nos olhos 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28105944.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/175714142/s592/40-dias-e-40-noites" group-title="Filmes",40 dias e 40 noites 2002
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",40 dias e 40 noites
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0243736.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/213186590/s592/boneca-mecanica" group-title="Filmes",Cherry 2000
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Cherry 2000
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0092746.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/254253708/s592/yes-god-yes" group-title="Filmes",Acampamento do pecado 2020
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt8949056.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/246930713/s592/ligados-pelo-amor" group-title="Filmes",Ligados pelo Amor 2013
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ligados pelo Amor
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt2205697.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/263362051/s592/i-want-you-back" group-title="Filmes",Volta pra Mim 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Volta pra Mim
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6462958.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/302785318/s166/os-reis-de-dogtown" group-title="Filmes",Os Reis de Dogtown 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Reis de Dogtown
 http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0355702.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/270200285/s592/paixao-sem-limites" group-title="Filmes",Paixão Sem Limites 2010
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Paixão Sem Limites 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0106627.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/248509179/s592/separados-pelo-casamento" group-title="Filmes",Separados pelo Casamento 2006
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0452594.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311714148/s592/fazendo-meu-filme" group-title="Filmes",Fazendo meu Filme 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15386618.mp4  
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/192157583/s592/o-rececionista" group-title="Filmes",O Recepcionista 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311668443/s592/mamonas-assassinas-o-filme" group-title="Filmes",Mamonas Assassinas O Filme 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310156599/s592/o-leitor" group-title="Filmes",O Leitor 2008
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311386874/s592/badland-hunters" group-title="Filmes",Em Ruínas 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306750877/s592/unreachable" group-title="Filmes",Um Verão só para Nós 2021
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310246807/s592/meu-cunhado-e-um-vampiro" group-title="Filmes",Meu Cunhado é um Vampiro 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/308488248/s592/siberian-sniper" group-title="Filmes",A Última Esperança Soviética 2021
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/161966297/s592/rucula-com-tomate-seco" group-title="Filmes",Rúcula com Tomate Sefo 2017
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310277426/s592/kho-gaye-hum-kahan" group-title="Filmes",Desencaixados 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/190237230/s592/pure-luck" group-title="Filmes",É Pura Sorte 1991
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307073590/s592/talk-to-me-2022" group-title="Filmes",Fale Comigo 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312737435/s592/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes" group-title="Filmes",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/191694302/s592/alibi-com" group-title="Filmes",Álibi.com 2017
-http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/242329771/s592/atakan" group-title="Filmes",Ritual Maldito 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312184460/s592/saw-x" group-title="Filmes",Jogos Mortais x 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/130143298/s592/irreplaceable-you" group-title="Filmes",Perfeita Pra Você 2018
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310003842/s592/thanksgiving" group-title="Filmes",Feriado Sangrento 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312869330/s592/vingadores-endgame" group-title="Filmes",Vingadores Ultimato 2019
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/309058869/s592/last-survivors" group-title="Filmes",Últimos Sobreviventes 2021
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312971276/s592/road-house" group-title="Filmes",O matador d aluguel 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310487900/s592/the-feels" group-title="Filmes",Despedida de Solteira 2017
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307450540/s592/os-mercenarios-4" group-title="Filmes",Os Mercenários 4 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307619032/s592/desculpa-mas-vou-te-matar" group-title="Filmes",Desculpa Mais vou te Matar 2021
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305867067/s592/vengeance-2020" group-title="Filmes",A Cor da Vingança 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307468075/s592/en-roue-libre" group-title="Filmes",Tudo Sob Descontrole 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305654821/s592/love-on-the-rock" group-title="Filmes",Perseguição em Malta 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/263614968/s592/ask-taktikleri" group-title="Filmes",Táticas do Amor 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306520001/s592/ask-taktikleri-2" group-title="Filmes",Táticas de Amor 2 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/182883005/s592/os-gatoes-uma-nova-balada" group-title="Filmes",Os Gatões Uma Nova Balada 2005
-http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/290546018/s592/os-gatoes-2-o-inicio" group-title="Filmes",Os Gatões 2 O Início 2007
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/143249555/s592/genio-indomavel" group-title="Filmes",Gênio Indomável 1997
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/295371732/s592/malibu-crush" group-title="Filmes",Malibu Crush 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/200953571/s592/diario-de-uma-adolescente" group-title="Filmes",Diário de uma adolescente 2006
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/279313978/s592/diario-de-um-adolescente" group-title="Filmes",Diário de um adolescente 1995
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
-
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/icjLDiTzcXgzzbiAu6AFbWL8FmH_big.jpg",Bela e Rebelde - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244477.mp4
-#EXTINF:-1 group-title="GUERRA" tvg-logo="http://5ce.co:80/images/eU1FVrytC9zkPlAcJVr8NXw12rQ_big.jpg",Che 2 A Guerrilha - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/244476.mp4
-#EXTINF:-1 group-title="GUERRA" tvg-logo="http://5ce.co:80/images/ekUpkM5tStkZuzpIzg77PbkG6SM_big.jpg",Che 1 O Argentino  - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/244475.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/ojWiV81GldQSrBjY2izkayPSN05_big.jpg",Dates de Formatura - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244474.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/icjLDiTzcXgzzbiAu6AFbWL8FmH_big.jpg",Bela e Rebelde - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244473.mp4
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://5ce.co:80/images/rC5RqXtFoTkBhNWE1dczwi4dZrX_big.jpg",Garfield Fora de Casa - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244472.mp4
-#EXTINF:-1 group-title="FICCAO/FANTASIA" tvg-logo="http://5ce.co:80/images/6J12yDIWjf8sJ5N28PIWpKXO7rh_big.jpg",Boa vs Python As Predadoras - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/244461.mp4
-#EXTINF:-1 group-title="FICCAO/FANTASIA" tvg-logo="http://5ce.co:80/images/ad9K1tNZxTp1pXInPPmh8KliK9U_big.jpg",Boa A Cobra Assassina - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/244460.mp4
-#EXTINF:-1 group-title="FICCAO/FANTASIA" tvg-logo="http://5ce.co:80/images/pZHg7QqjmovEx2m43aJf7lFGDZd_big.jpg",Python 2 - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/244459.mp4
-#EXTINF:-1 group-title="FICCAO/FANTASIA" tvg-logo="http://5ce.co:80/images/lDbTpRHTRFWBK4j0FAWpE4M5WT2_big.jpg",Python 1 - A Cobra Assassina - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/244458.mp4
-#EXTINF:-1 group-title="FICCAO/FANTASIA" tvg-logo="http://5ce.co:80/images/lV9VadnnXvv8qxoHkT9XWwGesQw_big.jpg",Caminhos da Floresta - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/244457.mp4
-#EXTINF:-1 group-title="DRAMA" tvg-logo="http://5ce.co:80/images/29Ramn6KaVTfuwXR5AVhvY0OBGU_big.jpg",Evil  Raizes do mal - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/244456.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/5rIKVegF7XMPB02RaFaxtFwTPR0_big.jpg",Uma Ideia de Voce - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244387.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/5rIKVegF7XMPB02RaFaxtFwTPR0_big.jpg",Uma Ideia de Voce - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244386.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/7q6OFowMWFABPY7fyJMuHI0upBj_big.jpg",Ressurreicao do Mal - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/244385.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/7q6OFowMWFABPY7fyJMuHI0upBj_big.jpg",Ressurreicao do Mal - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244384.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/nkaKeosG8cjWwU800jD6DQUf37X_big.jpg",Paulinho Gogo em Top Love  So e Bem Acompanhado - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244383.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/jLjZ3QBL5nrDyaSg5T8vmYjb2RR_big.jpg",Lua de Mel Inusitada - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244382.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/7Pm0hYthiHVmTO4MCuP4mWfrJIa_big.jpg",Lisa Frankenstein - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244381.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/ecOvKaoM1hwQbp0uTnULGrSV32e_big.jpg",Humane - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244380.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/ii1DVzyj9uJOF9qBrnHCT6nAxUw_big.jpg",He Went That Way - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244379.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/buvBq2zLP7CcJth8tjrI4znvfEO_big.jpg",Godzilla Minus One - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244378.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/s38XHjbFXd7Wv2zJKwWnq5Qyl5l_big.jpg",Festa no Covil - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244377.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/s38XHjbFXd7Wv2zJKwWnq5Qyl5l_big.jpg",Festa no Covil - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244376.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5_big.jpg",Baby Shark  O Grande Filme - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244375.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="http://5ce.co:80/images/1blZfK6KtBkCGWeo7iIPlLAzzqr_big.jpg",Arcadian - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244374.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/bgvmGUwUH4Iyoz0LpihR1y8eqlQ_big.jpg",A Noite Em Que Voltaram Para Casa - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244373.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A1LmHAJc2zNSAUfz0Dxp2Y1qAsH.jpg",Senna 30 Anos (2024)
-http://5ce.co:80/movie/pamelaflores/92446060a/244372.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/jLjZ3QBL5nrDyaSg5T8vmYjb2RR_big.jpg",Lua de Mel Inusitada - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244362.mp4
-#EXTINF:-1 group-title="ROMANCE" tvg-logo="http://5ce.co:80/images/1mcwL56XQFy0JxpwVyPuE7dj0sC_big.jpg",Era Uma Vez Um Principe - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/244343.mp4
-#EXTINF:-1 group-title="SUSPENSE" tvg-logo="http://5ce.co:80/images/4SLbUr8qlbODbiuuyixpy8rytTb_big.jpg",Crimes Ocultos - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/244342.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/aNK6MA5EApIo0UJE7ZWSYcZBJKy_big.jpg",Kung Fu Panda 4 - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/244031.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/cKXavgOb3v8uuiMTXcqvqTnXpj7_big.jpg",A Princesa Xuxa e os Trapalhoes - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/243919.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/qcKkU9TirmkeDVSCzb95nnCwMJ9_big.jpg",Xuxa Requebra - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/243918.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/x4ZWEAzzHW4kjrAg9AcVdExAikG_big.jpg",Xuxa Popstar - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/243917.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/v69LPA006babc7fS12PT2fvEAnK_big.jpg",Xuxa e os Duendes - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/243916.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/1HgVQnNhzIrZspYVGyuvBGoNR6_big.jpg",Xuxa e o Tesouro da Cidade Perdida - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/243915.mp4
-#EXTINF:-1 group-title="NACIONAIS" tvg-logo="http://5ce.co:80/images/ql6MZBvObtdPUSp8IYwk5j1vygu_big.jpg",Super Xuxa Contra Baixo Astral - 1988
-http://5ce.co:80/movie/pamelaflores/92446060a/243914.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/3V0iiaCYgaJHL1Z6aiTyacDzfof_big.jpg",Jogo do Destino - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243913.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/3V0iiaCYgaJHL1Z6aiTyacDzfof_big.jpg",Jogo do Destino - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/243912.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/3dx1yPdVzxEr6rMn4cVSiljk1kX_big.jpg",Infestacao - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243911.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/glY7KE3sLWrVUTKbRS9kGlnz0or_big.jpg",Eu Capitao - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/243910.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/dh0xebH7dT8keNFflIdjhqeiMVY_big.jpg",Em Chamas - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243909.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/dh0xebH7dT8keNFflIdjhqeiMVY_big.jpg",Em Chamas - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/243908.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="http://5ce.co:80/images/7ZtIxZp4tf0Gp5JtVKV4iCShTrg_big.jpg",Ataque a Colina 400 - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/243907.mp4
-#EXTINF:-1 group-title="LEGENDADOS" tvg-logo="http://5ce.co:80/images/oVqzDUHUY7cuTTprVlF8XPbo8Pg_big.jpg",As 4 Filhas de Olfa - 2023 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243906.mp4
-#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://5ce.co:443/images/utG8iiezSfmQyU8SuifRJjHReuR_big.jpg",Salvo pela Graca - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/243905.mp4
-#EXTINF:-1 group-title="SUSPENSE" tvg-logo="https://5ce.co:443/images/cI09ZM1eTTdozVJ86HjWRjVlDiz_big.jpg",Velhas Chamas Nunca Morrem - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/243904.mp4
-#EXTINF:-1 group-title="ROMANCE" tvg-logo="https://5ce.co:443/images/uJ2TVrEXUPe4tKGoVkvCjbkxyGr_big.jpg",Nova York Eu Te Amo
-http://5ce.co:80/movie/pamelaflores/92446060a/243903.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://5ce.co:443/images/5mF6zKM7LUnEVYTLAlwoZlskdbQ_big.jpg",Sayen A Cacadora - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/243902.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/5mF6zKM7LUnEVYTLAlwoZlskdbQ_big.jpg",Sayen  A Cacadora - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243901.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://5ce.co:443/images/4OtRE57DVwwlNXRcgp5L7twPQkL_big.jpg",Puan - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/243900.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/hVzuQWf131BFELS5PaZqvSKF50X_big.jpg",Love Lies Bleeding O Amor Sangra - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243899.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/tMO0YLXgJZBnIAjoTSz26zE33YN_big.jpg",Damaged - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243898.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://5ce.co:443/images/cjQzJ9xFdaN9KAwu7HUImIgbc2Y_big.jpg",City Hunter - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/243897.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/cjQzJ9xFdaN9KAwu7HUImIgbc2Y_big.jpg",City Hunter - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243896.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/nJHrhcTT4LVzq07doBUaJ5ZjXB9_big.jpg",Asphalt City - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243895.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://5ce.co:443/images/n51gQ3x8nTgHOGnHb2MJpOnCJzd_big.jpg",Antares de la Luz Uma Seita Apocaliptica - 2024
-http://5ce.co:80/movie/pamelaflores/92446060a/243894.mp4
-#EXTINF:-1 group-title="LANÇAMENTOS LEGENDADOS" tvg-logo="https://5ce.co:443/images/n51gQ3x8nTgHOGnHb2MJpOnCJzd_big.jpg",Antares de la Luz Uma Seita Apocaliptica - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/243893.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zJPZPtBqPSN73m6UmpS7uTTOZSo_big.jpg",007 - 01 Contra o Satânico Dr. No - 1962
-http://5ce.co:80/movie/pamelaflores/92446060a/42797.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/x06hUBmBeExMSs4Zot2V8Y3R24t_big.jpg",007 - 02 Moscou Contra 007 - 1963
-http://5ce.co:80/movie/pamelaflores/92446060a/42795.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hi8vxhCM1EzLvfF6VI7GYiGgMBH_big.jpg",007 - 03 Contra Goldfinger - 1964
-http://5ce.co:80/movie/pamelaflores/92446060a/42802.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ot8pEGo9Mljwkz7Ak8hv4qjBmsu_big.jpg",007 - 04 Contra a Chantagem Atômica - 1965
-http://5ce.co:80/movie/pamelaflores/92446060a/42800.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/2M3ZfAuMLcmkz2ItcIL9PcQIRMB_big.jpg",007 - 05 Com 007 Só Se Vive Duas Vezes - 1967
-http://5ce.co:80/movie/pamelaflores/92446060a/42805.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8lj09OvXpSgPTSHWOJ7AerBemDS_big.jpg",007 - 06 A Serviço Secreto de Sua Majestade - 1969
-http://5ce.co:80/movie/pamelaflores/92446060a/42807.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/n0UhYapEWDcrgDgKvRKHZMyv4z6_big.jpg",007 - 07 Os Diamantes São Eternos - 1971
-http://5ce.co:80/movie/pamelaflores/92446060a/42835.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uz2oenTkYwKuaXgHkdb15UT7c3o_big.jpg",007 - 08 Viva e Deixe Morrer - 1973
-http://5ce.co:80/movie/pamelaflores/92446060a/42804.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rqC546GsvQqNEM4Tmlw6y132Dst_big.jpg",007 - 09 Contra o Homem com a Pistola de Ouro - 1974
-http://5ce.co:80/movie/pamelaflores/92446060a/42798.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sZss61yM6uKT2KU1aGX7W8ElsPE_big.jpg",007 - 10 O Espião Que Me Amava - 1977
-http://5ce.co:80/movie/pamelaflores/92446060a/42837.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zLIklqHcFZzRKi2mJjRfiI50lzJ_big.jpg",007 - 11 Contra o Foguete da Morte - 1979
-http://5ce.co:80/movie/pamelaflores/92446060a/42799.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/v3TFKkWFgsQcBvN29s1P7meOt2j_big.jpg",007 - 12 Somente Para Seus Olhos - 1981
-http://5ce.co:80/movie/pamelaflores/92446060a/42833.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uULahg7URW4DjPq0fANgHEw1uHC_big.jpg",007 - 14 Nunca Mais Outra Vez - 1983
-http://5ce.co:80/movie/pamelaflores/92446060a/42793.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fbytkyUibUnksjBEpIwcMxQJTfJ_big.jpg",007 - 15 Alvo em Movimento - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/42794.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mXbq3IsGDW9AdV8fhL2EiHTrkEu_big.jpg",007 - 15 Marcado para a Morte - 1987
-http://5ce.co:80/movie/pamelaflores/92446060a/42796.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tRpQXr9G4ecP8SskmPTMfsrvYaB_big.jpg",007 - 16 Permissão para Matar - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/42834.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qc1Id3BLRoUk10uJGmvRqqAKvQL_big.jpg",007 - 17 Contra GoldenEye - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/42803.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cURZ8FpxFzwZHCL07ABXJCVnORc_big.jpg",007 - 18 O Amanhã Nunca Morre - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/42792.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9aWgoZRi3BOsExOYWygRbQilsDS_big.jpg",007 - 19 O Mundo Não é o Bastante - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/42836.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/a3Uub7CVKatqDOaNG9tsJs7ldYa_big.jpg",007 - 20 Um Novo Dia Para Morrer - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/42832.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7b3qmLlvm2lvJ2gxsKQ42S3RTKR_big.jpg",007 - 22 Cassino Royale - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/42806.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fV0ejyUsnqd8BzHcK13C7ZJFEa1_big.jpg",007 - 23 Quantum of Solace - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/42829.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ozwsRvKABRcF8VrNNvMkKt8KWyF_big.jpg",007 - 24 Contra Spectre - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/42831.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1U1gkQynuQRNsZ8zm13zSCGOFAj_big.jpg",007 - 24 Operação Skyfall - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/42830.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jebWDEnGH2f4GnqZxSLfuON5KME_big.jpg",007 - 25 Contra Octopussy 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/42801.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/luE0KG1rWfUptbgNtlNtL5sihyd_big.jpg",007 - 26 Sem Tempo para Morrer - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/198073.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg",10.000 A.C. - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/111573.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rzYL3JELRAmy9QqklHPYdEQoGAM_big.jpg",12 Rounds 1 - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/174626.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/btThjvVC4lOqE95F9iVK118kpj2_big.jpg",12 Rounds 2 - Reloaded - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/174627.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://tinyurl.com/46rzkvpk",12 Rounds 3 - Caçada Mortal - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/174628.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/fJwAFbjWXdbu0nl8wZPYn1VZkNj_big.jpg",13 Distrito - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/212442.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/c0Y2aNGSPlF7y926n2uHvPfo5TF_big.jpg",13 Minutos de Tormenta - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/202337.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nDuz1NzV5NxoASF8Y7XezTqPSUG_big.jpg",13 O Pavilhao da Morte - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/240471.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iwXNed7a2TERq4D7AUY3wltGrqw_big.jpg",15 Minutos de Guerra - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/61384.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp4k8o0oYSD9iLEc6m2U9Bkq3pY.jpg",16 Quadras - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/112325.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/igeyazOK26e0RSG0uiOYiDWHi1_big.jpg",211 - O Grande Assalto
-http://5ce.co:80/movie/pamelaflores/92446060a/42828.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3EkhsU6augJjLU83AiONvs3y97s_big.jpg",22 Balas - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/61089.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qgiU6AvEoyuLMnt7KnoubXrKsC_big.jpg",22 Milhas - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43176.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kW6zkRGYiwHViMRUy0wJkbXIFBv_big.jpg",3 Dias para Matar - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/65475.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/h7Lcio0c9ohxPhSZg42eTlKIVVY_big.jpg",300 - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/43996.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/l9T9hsVca2mh0S29olWRUE3uBpz_big.jpg",300 A Ascensão do Império - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/61385.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/2Y3KP16jgGmOqHRx2XNy8SM2Sid_big.jpg",400 Bullets - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/144676.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pKM4v6dZ1LSKzRQxN0YEbmCKGAH_big.jpg",47 Ronins - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42827.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/lgW4inpyJKv9KkUYEaaA6MFk0eY_big.jpg",48 Horas - 1982
-http://5ce.co:80/movie/pamelaflores/92446060a/143363.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://cms-central.co:80/images/sMSYOBClCr8cQDxbYQaikqi5YG7_big.jpg",6 Balas - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/154801.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg",6 Dias - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/121954.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F9AlinnP2OhgnsK8xjksK94Oh1.jpg",60 Segundos - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/61386.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/aYT218ykdkD1XHtcbMNBnOnTb1X_big.jpg",72 Horas Depois  - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/185006.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vverWoOxH00f4jM9hrd6oPGW0EE_big.jpg",A Arqueira - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61090.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nKY2FQm7GYtGPkxSDkN9lh6Mogm_big.jpg",A Balada do Pistoleiro - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/42826.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/brVPZyqIdTAScO8vg1Au8fbsd0b_big.jpg",A Batalha das Ardenas - A Última Ofensiva de Hitler - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/66539.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7RCLciIv2T9cXhliA0dHyi5EJsT_big.jpg",A Bruxa - Parte 1 A Subversao - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/238019.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gEITf3Z0UfnZYx0kiVkGvsuYT4u_big.jpg",A Cacada - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/79924.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg",A Caçada - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/114937.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg",A Cartada Final - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/121955.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/Acc3skjs4TGxF6G7VxG3WvVvbRr_big.jpg",A Colônia - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42824.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg",A Divisão - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/70814.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cjFObrOXLc4kOMktboywpsJZFTp_big.jpg",A Espada do Imortal - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61387.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/bft6EuB96z0ureK832edqwAplDS_big.jpg",A Espiã Que Sabia de Menos - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/201989.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg",A Família - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/123520.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://cms-central.co:80/images/aCbYUY1xuyaxbp5F1KuyH7AIvHg_big.jpg",A Força da Natureza - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/155569.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hYi00SLc8v92h5i4MoluCvIwLG1_big.jpg",A Fortaleza - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/195177.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5FDpiMP6ETXiFRVVN7vE4YqLF9I_big.jpg",A Furia do Dragao -1972
-http://5ce.co:80/movie/pamelaflores/92446060a/61421.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7Wj9NLJaEUF9Cf0ovhuK0J7rJG0_big.jpg",A Hospedeira - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/61388.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gouAazYfEzTclGTNk4eygyZSKVi_big.jpg",A Identidade Bourne - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/42822.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cmYwqH7avrYZ3AwAODtw5ZAyavW_big.jpg",A Ilha - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/61389.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJAQdWFNs59q5aikAaVJyKsoKw.jpg",A Ilha - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/119553.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/6wq8H7AZRdQZcc9VE6oVjRvDkAG_big.jpg",A Invasão - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/197125.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/k3bo5KezwUNMR0yxdYKZk9kMei7_big.jpg",A Irmandade da Guerra - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/240438.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hXJek3Z6aOpT3c0ssPEmtnZhxLq_big.jpg",A Justiceira - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/218778.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1gLjjiNrSfblI3Vopvuyd266LF8_big.jpg",A Lenda de Beowulf - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/191923.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rvadstimSbP1RFUUJX5LuaqVpOz_big.jpg",A Lenda de Billie Jean - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/76972.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5TAQBqvokRt2qHEgi7ipeX1Bif9_big.jpg",A Lenda do Tesouro Perdido - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/61390.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dB6ZonPsxYiNq0ULCvW13NchmVY_big.jpg",A Lenda do Tesouro Perdido - Livro dos Segredos - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/61391.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/maTuBPCOMEHCUHg1ytgZvsjU7kt_big.jpg",A Luta de uma Vida - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/213960.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3FjeyrJiQN3Ctr9UxdnVhr5H2oY_big.jpg",A Marca - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/239413.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eh2e6feFLOmlQDcKSDCJCwXVsUd_big.jpg",A Noite nos Persegue - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61393.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg",A Odisséia - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/144501.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/89PrfqYkqafUrSK8YhWqyMt4E3M_big.jpg",A Origem do Dragão - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/158347.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/loR8prjWhkOdufD1rfREpXQsrNJ_big.jpg",A Outra Face - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/42819.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5TSexxqQkyhlTl4eDrbciai7oG5_big.jpg",A Outra História Americana - 1998
-http://5ce.co:80/movie/pamelaflores/92446060a/68263.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/lh9jmB0FVXjjs4z9ehX6O5wN915_big.jpg",A Porteira - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/139616.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mDeTqCBAoRHD9zQXZefhtJs2sez_big.jpg",A Primeira Noite de Crime - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42776.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/o4TbqzNBAPKHpU3z93ysvRhSpeP_big.jpg",A Princesa da Yakuza - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/204846.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/u0jGhri9AjtX3s9ldyyG6MGJfS0_big.jpg",A Profissional - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/199358.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7KwNaBdPFLVVI7TajOi5dtFk8aw_big.jpg",A Prova de Morte - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/43461.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mkF7O5M3qviVnz19dVR8ocpStY3_big.jpg",A Queda de Berlim - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42817.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zFN9c739JHBoLXr3MBjGwrsR7ys_big.jpg",A Queima-Roupa - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/42760.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eFPh6GQMQROAe6y1KQuL9f0TFRX_big.jpg",A Rocha - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/170612.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dIF1kkuWxX1NadKTqEPTOQm4n4Z_big.jpg",A Senha: Swordfish - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/61394.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/rQIxgAeOyltdrSNVGVhimGjX2hL_big.jpg",A Sombra e a Escuridão - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/137022.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/3fneLowMD1mTRT6JhIPPJbxSlSW_big.jpg",A Super Maquina - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/210831.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uEc7eBQa1DvVlYb2EdcZLYWN4So_big.jpg",A Supremacia Bourne - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/42816.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/oHD8a1zEXMaUmJCXO9SeBMMiu97_big.jpg",A Taberna do Inferno - 1978
-http://5ce.co:80/movie/pamelaflores/92446060a/173262.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cQbQNdOr6S7XNJAV5woU1KdbHUQ_big.jpg",A Travessia - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61395.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mHx7GUXpycO2sBuG8rjXRpmz9Zy_big.jpg",A Última Fortaleza - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/184496.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrIBG0w9224hMNXpbwXc97WzYxI.jpg",A Última Missão - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/104698.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/9qkl34olpFVM9nAuYeveO6uKpaA_big.jpg",A Vida de Togo - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/213157.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sU2fQEZ6paXXxJ4CKiUa0hbOIx0_big.jpg",A Vila - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/43830.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/fciMWczNCEODy1EaII34BNbHdYA_big.jpg",Abaixo de Zero - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/141685.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWlnUfzERPhYG6zUtepOsxcPlS6.jpg",Abra Suas Asas - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/133551.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/4d1pvFqLEBpqz83eyzBeDno6YZc_big.jpg",Acima da Lei - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/210784.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3Ox9qQyUXVoXcYZEBNfUeuqaS.jpg",Adrenalina 1 - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/123872.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LXgxmu0pgDlVO4cIElA6HgnwFL.jpg",Adrenalina 2 - Alta Voltagem - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/111221.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/nPxslVHIse0DNIbUHpHbFAnJ9Gd_big.jpg",Adrenalina Maxima - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/211703.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjzzXoOWTHkCLZG7V6XJLXHy1P4.jpg",Agentes Duplos - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/80778.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg",Agentes Vanguard - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/133927.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xpC5VhvL5J8AHh7U1xLlpM5Mntp_big.jpg",Aguia de Aço 1 - 1986
-http://5ce.co:80/movie/pamelaflores/92446060a/157751.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/yQNq0zbInR0Vx6nWJCEBN4d0pPI_big.jpg",Aguia de Aço 2 - 1988
-http://5ce.co:80/movie/pamelaflores/92446060a/157016.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/2KzXWh4AA7bnR3O0TOHpdsWnBby_big.jpg",Aguia de Aço 3 - Ases do Ceu - 1992
-http://5ce.co:80/movie/pamelaflores/92446060a/157018.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/qzDJLa7NCuN6GSBxIRhIWG8TGiz_big.jpg",Aguia de Aço 4 - O Combate Final - 1994
-http://5ce.co:80/movie/pamelaflores/92446060a/157017.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/p8d47nKPzPJOJnIQQVNtVcSEu7_big.jpg",Aguia de Fogo - 1984
-http://5ce.co:80/movie/pamelaflores/92446060a/161257.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/45i3yKCzM9DoicnWtrVgx5IWA0_big.jpg",Air America - Loucos Pelo Perigo - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/150802.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg",Ajiin – Semi-Humano - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/103905.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/azlbmSi6K8pVY2jGZmfCZxxlSQb_big.jpg",Ajuste de Contas - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/76971.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yCusqunCMU84z32OK0kyZMnTH45_big.jpg",Alerta Vermelho - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/158016.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pe17f8VDfzbvbHSAKAlcORtBHmW_big.jpg",Alerta Vermelho - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/190848.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jN2Q3zbNKIVn9RhqUPC8JnIibhb_big.jpg",Aliados - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/43986.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xUOP8nSOcwymKeOS9L4iJbLXG74_big.jpg",Alita: Anjo de Combate - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/42774.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fUEv9INjh1HEdbD9BAExioSO65a_big.jpg",Alive - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/120640.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5j2YVF7VouLG0Ze96SEsj4DnVQM_big.jpg",Along with the Gods: The Two Worlds - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/189925.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eRaUlATfycdhVcF0MRwD1X0qbHk_big.jpg",Alpinistas - Desastre No Everest - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/184499.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rq9EOXrBIWvDb5bey2vrUHlIui1_big.jpg",Amanhecer Violento - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/170549.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spHMuvgrZnP0AqtwdeHaHlUUsHN.jpg",Amazônia - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/111575.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4MImZklF3av4ItMIFfxgIsLvEuO_big.jpg",Ameaça Subterrânea - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/193555.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/krou0du5PObaJizEmCWSPCSZzoq_big.jpg",American Ninja 1 - Guerreiro Americano - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/96754.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/j0MIWur5XEnuSk0sb262ynxXIxs_big.jpg",American Ninja 2 - A Volta do Guerreiro Americano - 1987
-http://5ce.co:80/movie/pamelaflores/92446060a/58533.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/oiKM4CAEXrhAfDkpnhBW8RpOQC7_big.jpg",American Ninja 3 - Caçada de Sangue - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/169280.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/6ZSM6rDMEg4FNfqBn41kPLevwx9_big.jpg",American Ninja 5 - O Pequeno Ninja - 1993
-http://5ce.co:80/movie/pamelaflores/92446060a/169282.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nQRPSUmHGLrFRPK6v3BI1frAM1O_big.jpg",American Sicario - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/208621.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/lJAzxGgEmVCsfjeTlOP1hU46HVp_big.jpg",Anaconda 1 - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/43452.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yi3KRmJlEtRV090wgeEPiFQ6cxm_big.jpg",Anaconda 2 - A Cacada pela Orquídea Sangrenta
-http://5ce.co:80/movie/pamelaflores/92446060a/43451.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/a5j78QYzjr81HIcYvCuhx105eXP_big.jpg",Anaconda 3 - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/43450.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rCp9VYqvBphiETtC86fGZFSXc63_big.jpg",Anaconda 4 - Rastro de Sangue - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/43449.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rVQmXioizm9bJJlYT03wEHU24h6_big.jpg",Anjos da Lei 1 - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/43799.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/x6WSL1FmxCswB08Vkz19yoXs56l_big.jpg",Anjos da Lei 2 - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/43796.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zLGq0aNMZ8ETeJSEGVYCTVGOpy9_big.jpg",Anjos da Vida - Mais Bravos que o Mar - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/42874.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/itUXQRTYJYDM5vwJFDWKb0uxqoC_big.jpg",Anna - O Perigo Tem Nome - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/61094.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/woPYFGKwVULILbO7q44HmsNY0kO_big.jpg",Anônimo - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/167988.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://encurtador.com.br/lDILT",Apenas o Começo - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42872.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cobRV6hAj8h7dRU4WZ3dkGaRQv2_big.jpg",Apex - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/189583.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cBFQsU1LDBEOl0Ik0cygeB6wCLE_big.jpg",Apocalypto - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/61396.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg",Aprendiz de Espiã - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/119554.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/uSypWMagzI7jJ7cq2TStGnYyyfL_big.jpg",Armas em Jogo - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/147781.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fvwR00VUW2yFtSdYr8F3NUmusf6_big.jpg",Arranha-Ceu: Coragem Sem Limite
-http://5ce.co:80/movie/pamelaflores/92446060a/42871.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg",Arsenal - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/120540.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/chGTXsvn53XvEnvsJ9ZD9eiYKx9_big.jpg",Arthur & Merlin: Knights of Camelot - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/138610.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sz6z3k9UGeVmkC6YkdY0iTj9Ipk_big.jpg",As Agentes 355 - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/202774.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zckSqEoRghc0ZMI4HRsnZGUIHDx_big.jpg",As Duas Faces da Lei - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/42869.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zBDQbEx1k7xLv58gN0IyRZ5YjtW_big.jpg",As Loucas Aventuras de James West - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/161258.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3ZZogKW7RFV0MjmAP6zNF19mkKF_big.jpg",As Panteras - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/227760.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GZLHlKuvQCqNnKfT3GNZYnlFFc.jpg",As Panteras - Detonando - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/104703.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9lI6MrGqeokTR65szTDVGEac4PQ_big.jpg",Ascensão do Cisne Negro - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/182067.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/z7kel1zs55kLfSmwPGiSlNW5aAG_big.jpg",Asfalto de Sangue - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61398.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/AhRSv4npEaE8ZvuJh4CmQpsXDZg_big.jpg",Assalto ao Banco da Espanha - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/152771.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dLlRNOjWIQGNNyHuSFvDTgXW7n.jpg",Assalto ao Carro Blindado - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/117288.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4eNxOvkRmctOPr6PCA6MeJ8UXQt_big.jpg",Assalto ao Poder - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/187524.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mEBnMT5tFk08q9jwSjdEUifUHHM_big.jpg",Assassinato no Grupo de Mães - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/84707.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/AbO2OzFiWt9cEjgZfSOnp75ihGE_big.jpg",Assassino A Preço Fixo 1 - 2011
-http://5ce.co:80/movie/pamelaflores/92446060a/43448.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uNdYyWMMpEHWsMALjko1QCpAZVM_big.jpg",Assassino A Preço Fixo 2 - A Ressurreição - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/43447.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iEql7EXfQqURvGTEC9GJ3Rx9Baa_big.jpg",Assassinos de Aluguel - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/61095.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uvcsAfWEbtO85YvzJ7N2c9ghuOn_big.jpg",Assassinos Múltiplos - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61399.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5JAVd0lYhkB2dsDtt84Qt6grNIn_big.jpg",Assassinos Substitutos - 1998
-http://5ce.co:80/movie/pamelaflores/92446060a/204166.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mAfQWKpALGe91Nn12lBeBoTGgsC_big.jpg",Ataque Fatal - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/157752.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/imo9QdjIb3y5tJ7DICdVKHRkYXV_big.jpg",Até o Céu - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/152307.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/i8u0gaNBI7TTkxKkqjUTSpAtE5F_big.jpg",Ate o Limite da Honra - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/208095.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qIDP5eT4azlanpUJFQJq2ZYWw4Y_big.jpg",Atentado em Paris - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61400.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/qluvMxXA2p15s7egazJn9vhX5Gi_big.jpg",Atirador - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/147782.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/j6FEq9yYNDp7pAPQCG2yl5qTY3U_big.jpg",Atirador de Elite - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/203053.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/oNPmUi8sADtGNwSGk5qTxxUMlUy_big.jpg",Atômica - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61401.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5BFwjwDyoAkulZjKtUZpVLZ5DFa_big.jpg",Atos de Violência - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42868.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eJdAfGYCPLhxYRLWHmG51uV9aYR_big.jpg",Atração de Risco - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/81451.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg",Atrás da Linha: Fuga para Dunkirk - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/131715.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/DdqL8MwxTsvDYB4oJ6Izr86lQu_big.jpg",Atras das Linhas Inimigas 1 - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/61402.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cbnwfsqFkiWd0rbQq63R1H84gm7_big.jpg",Atras das Linhas Inimigas 2 - O Eixo do Mal - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/61403.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/2CeKbO3M9EtE5ZbbO9AdXrXSREB_big.jpg",Atrás das Linhas Inimigas 3: Operação Colômbia
-http://5ce.co:80/movie/pamelaflores/92446060a/61404.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dynNvq0HnZbYnJBfyNQsS78Aknm_big.jpg",Atras das Linhas Inimigas 4 - Missao Africa - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/61405.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yVRDpj9wg6sYnBugfxUbnjBdHWo_big.jpg",Atualizacao - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61406.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uobkkvvKCZbTKpJCMnvuTRQt5bV.jpg",Ava - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/133856.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gVKYg7HseTtYFavutwC2mZJn8iO_big.jpg",Aventura em Duas Rodas - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/209556.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/uZkNbB8isWXHMDNoIbqXvmslBMC_big.jpg",Awake - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/165775.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/AoWK4Y4m3bBRmW1XXcQqXyo9gAj_big.jpg",B13  13º Distrito  - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/212441.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/97eKX9vZeHk6ugHO8jFToaNVkQY_big.jpg",B13 U13 Distrito Ultimato - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/212443.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/e0n2BL5jgDvOdHols6yWLfyCajq_big.jpg",Baahubali: O Início - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/42867.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nTVRyHcPTrrMu90LIadJl44Itvo_big.jpg",Bad Ass 1 - Acima da Lei - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/182668.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3kJghRHWS4VHIq2mkdkEZPV5oAE_big.jpg",Bad Ass 2: Ação em Dobro - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/199451.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/moZSQaD6GPRELWZO9qbRJjzq7re_big.jpg",Bad Ass 3 - Dois Durões em Bayou - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/182669.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJREJK1UH66A2U0TzzVJ7anv8TK.jpg",Bala Perdida - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/100427.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",Bandidas - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/106646.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pGBGBgqqHf8UpuwSpwpHNeAmRct_big.jpg",Banho de Sangue - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/95712.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kOVko9u2CSwpU8zGj14Pzei6Eco_big.jpg",Bartkowiak - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/176607.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vUTrHashD5jrUdQhwtpWzlmyyZf_big.jpg",Battleship - A Batalha dos Mares - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/61410.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/s2qIeFsI9TskZr1LkSwljQDh5nl_big.jpg",Beirute - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42866.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yXvfvw7tdnEyFLkyKlBz3OIqDqa_big.jpg",Belas e Perseguidas - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/184112.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5fJYDJDv3xVs6VbjHHoARjVJf0o_big.jpg",Bem Vindo à Selva - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/43769.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/aUrN8UWS8d2PKLsk5teZPxrfbmO_big.jpg",Ben-Hur - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61411.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/ajNUvzgzSYb4JKcfjcCgJl1r5dH_big.jpg",o Guerreiro das Sombras - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/156062.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbpB4sHSOKHCsagcImO5I4RODmm.jpg",o Golfinho - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/98971.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kXaSLb7reKixWqujYqV8R4XybGo_big.jpg",Black Ops - Operação Secreta - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/176608.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qw2naQOCBLQdcExyk4T4FslsRI.jpg",Block Z - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/129838.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5Z7AJiQhocA20MkI5JXZ6OjTxEW_big.jpg",Bloodshot - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/74275.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/edwjpVNweid5OLUXDLa8X9o0Z5X_big.jpg",Boone  O Cacador de Recompensas - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42864.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3psMSrjgYXC3r6jLkKlWwSIlLo7_big.jpg",Boyka O Imbativel 4 - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/42863.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gxO8lmpVY0ccLWIzWw8s9BE8poe_big.jpg",Braddock 1 - O Super Comando - 1984
-http://5ce.co:80/movie/pamelaflores/92446060a/42862.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7rCGFMqk4ewvk1T2dpqMcJyVdMx_big.jpg",Braddock 2 - O Início da Missão - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/43459.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pAqbmhgUO65EuIysncrxoqOWnvC_big.jpg",Braddock 3 - O Resgate - 1988
-http://5ce.co:80/movie/pamelaflores/92446060a/43458.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg",Bright - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/127167.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5SR0JUsYsw1N92bSigKuzwKYdS.jpg",Bruce Lee - O Dragão Chines - 1972
-http://5ce.co:80/movie/pamelaflores/92446060a/61420.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mFxHsGp04g1X9oLGIF1MFM0vzOg_big.jpg",Bull Hora da Vinganca - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/207185.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/x9vAcoPsyFQ6m3Re5S9DQSbudyi_big.jpg",Bumblebee - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43008.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kvsfS8BvCslGATSc4vzVlxfCFkG_big.jpg",Busca Alucinante - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/43765.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/oBShqYI8BaTIQzj8LQT4hQacmFN_big.jpg",Busca Busca Explosiva 1 - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/42861.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngRBNPSSeQ3aga7I51B2gN6jUaJ.jpg",Busca Explosiva - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/129563.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/6eGlig64s1MCv4GkaXeEDczEkRQ_big.jpg",Busca Explosiva 2 - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/42860.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/v5zOloezIaNssCbYFN5WPrOv7e2_big.jpg",Busca Explosiva 3 - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42859.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sNj8QeDYeJTg9wjCHxWEQVbpd5l_big.jpg",Busca Explosiva 4 - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/42858.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/scT71EjoMhoFUAddEzLMYDnvPlM_big.jpg",Busca Explosiva 5 - Campo de Batalha - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42857.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/28bG0sSBBFBkVH2IF1miyYTU8su_big.jpg",Busca Explosiva 6 - Sem Saída - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/81519.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pubLTvUi3K6Jx8DZ42CeepVikWK_big.jpg",Busca Implacável 1 - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/42856.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/laLGcxl36GAxahL5PbUC8qvabzO_big.jpg",Busca Implacável 2 - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/42855.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4lAnC2BU7VhUG9wxHSOai67Tiqg_big.jpg",Busca Implacável 3 - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/42854.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iMViugzRCgok8Of27cCN9yru8BD_big.jpg",Caça ao Outubro Vermelho - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/158358.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/klEP85yIRJmZo85jVg2ntb5KVB5_big.jpg",Caçada Brutal - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61447.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/paclnjtBlAcEh1ddUbCbT1azPIc_big.jpg",Cacada Selvagem - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/209720.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7hoZCsrSssuWJ9UHpX054EMzY2U_big.jpg",Caçador de Recompensas - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/121262.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rSJEy2hLkxNk9Q71en8Pm8SX676_big.jpg",Cacadores De Homens - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61450.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qk8rpMHyBP3tau6RGJu4VF3dsEc_big.jpg",Cacadores de Mente - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/43457.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGFryMqOKXv7nv487cHYio19SYa.jpg",Caçados - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/98830.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yONcf5ZI2VMe8EcpV7YqJDGsS6z_big.jpg",Caes de Aluguel - 1992
-http://5ce.co:80/movie/pamelaflores/92446060a/42909.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uv9g0yF3z10tWWq24OQewQf6r5e_big.jpg",Caes de Guerra - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/66381.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gCVOQzV7Z556WnJFNeX7y8BFhyW_big.jpg",Calibre - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42853.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg",Caminhos De Sangue - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/77629.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/l0yMxpDDqs1WdDfMrG3ZZK34UTi_big.jpg",Cao de Briga - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/42906.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/lOllmhr6pVWR18Prmp1dCMPVtw6_big.jpg",Caos na Prisao - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42852.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab5fAOedU84zGrJ7uzZfhDygUpl.jpg",Capitão Coragem - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/121318.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/q3YN8twLWhKW4EmUw2JGRJc4xfH_big.jpg",Capitao Phillips - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/69470.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2jxIxIwvYCAgye13xD6tGNOzCq.jpg",Capturado - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/123387.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sw644BbNIxSGRqjwAC50uskDBHg_big.jpg",Caranguejo Negro - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/202702.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4VfuE1wgsL9jIrmuI4AF6zEnDbb_big.jpg",Carga Explosiva 1 - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/43446.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nNMJ8d5ZUTFxwP00DqxhqczB8z_big.jpg",Carga Explosiva 2 - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/43445.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hC4lRSuZA29l4NbmQ8sdvkpRkO5_big.jpg",Carga Explosiva 3 - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/43444.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iti0ub1R6JBCfwJarLktNL47HC_big.jpg",Carga Explosiva 4 - O Legado - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/43443.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cjxMMKnuULfVyQ5EE0PbBYiMtuB_big.jpg",Carga Mortal - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61452.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mNCBOnQITpRkaMRyq8KyfyDFQEx_big.jpg",Carta Selvagem -2015
-http://5ce.co:80/movie/pamelaflores/92446060a/80308.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQhVKh5645tzajA0dOcb3TTEuY.jpg",Cassino - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/103866.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hcmtEns8LZdkztVz5kX3cirugaa_big.jpg",Castle Falls - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/209506.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/p1WwFPliT9jG63YlEz8E5v3fsGQ_big.jpg",Centro de Trauma - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/61096.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVucoa12iePyXRj6kcv9sGO4aLB.jpg",Centurião - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/114335.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/63mTxkeY9hsb9nFIUEiR2yBopuz_big.jpg",Ceu em Chamas - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/42903.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/6i8NsvKi4azatHd7s8f42qsAb86_big.jpg",Céu em Chamas - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/139624.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg",Chamas da Vingança - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/124539.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tffkH2F6DmAhud4g4rZqrQ1K48v_big.jpg",CHiPs: O Filme - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/60250.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0pV6Kkd7rp6TPzlxN1xoItFvCm.jpg",Chocolate - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/123519.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/bqT6jMz8J7vhZo7lMd6q5d8ijjd_big.jpg",Chumbo Grosso - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/193556.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg",Cidade da Garganta Cortada - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/131718.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/wbeS6PkCsi6UbRYzHBOauzqKXjO_big.jpg",Cidade do Crime - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/85528.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/v2TRu7tQ8LKHOwfusckYjHvXiya_big.jpg",Cidade Virtual - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/200979.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nNyverKFzY0NzogqeStVtSTz4Nl_big.jpg",Círculo de Monstros - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42896.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://cms-central.co:80/images/4ZocdxnOO6q2UbdKye2wgofLFhB_big.jpg",Clube da Luta Para Mulheres - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/156701.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/wqNNm36j3nkucAucHEGAW5pNZcd_big.jpg",Cocoon - A Aventura dos Corais Perdidos - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/143908.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/pW2PKCDKZ0ocEamVAEDDR3Buup2_big.jpg",Código de Conduta- 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/141700.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/mGIaY2PRpw0xdYHZfPNBK2bC41L_big.jpg",Codigo de Lei - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/211481.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sZxPAyNJD5ZJzJ587ol3c0mbZp3_big.jpg",Código para o Inferno - 1998
-http://5ce.co:80/movie/pamelaflores/92446060a/171220.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yfocdCwsdaJQNOpXacHet1S3QEN_big.jpg",Colombiana Em Busca de Vinganca - 2011
-http://5ce.co:80/movie/pamelaflores/92446060a/64234.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/nC9rh9kG839WlElEH7FQIDHrKri_big.jpg",Com As Proprias Maos - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/43454.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG9ZRnXwehkPOajla9roaRxHi4P.jpg",Com as Próprias Mãos 2: O Troco - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/124541.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg",Comando Justiceiro - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/100428.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4Lqd45dh7xFRBEjIDTrDQgwLZQk_big.jpg",Comando Para Matar - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/61567.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/soBP2LIL5JPL2tIAFYrhQAau23Q_big.jpg",Como Virei Gangster - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/216672.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5PKm5WG7cBGFmnfmPqZjOEyw0lp_big.jpg",Con Air - A Rota Da Fuga - 1997
-http://5ce.co:80/movie/pamelaflores/92446060a/43442.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/6NjkjDBkbu4je0XIfmIZEQ53b3k_big.jpg",Conan 1 - o Barbaro - 1982
-http://5ce.co:80/movie/pamelaflores/92446060a/53007.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/v7oGgmntwi8ZwVN0wId7yH1wmFT_big.jpg",Conan 2 - O Destruidor - 1984
-http://5ce.co:80/movie/pamelaflores/92446060a/53008.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fDyEClXTDc13iEXjEZaw6mNb4uy_big.jpg",Condenacao Brutal - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/61566.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/96zAP3LAKFy4nMBuvARqewzSNke_big.jpg",Condução Perigosa - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/175998.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hYTJI6uGhCg6mDTHNOdHkKVr7At_big.jpg",Conexao Jamaica - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/42930.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4rHdr2apDbnlHuzDfSg5L4uEuji_big.jpg",Confronto no Deserto - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/203055.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xY9KVsJf8mmrefdmaRZ9pJl2dpd_big.jpg",Confronto no Pavilhão Noventa e Nove - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/182062.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qlXenN6jjgbsIyEJxBjkfkEU0q8_big.jpg",Conspiração Implacável - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/190566.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vdnguGYGOLjIYrMUC3SUGdfh0lU_big.jpg",Constantine - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/62006.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg",Contos do Caçador de Sombras - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/129954.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/owv9nfKSe3JjnsUQnw1JhxOtHaC_big.jpg",Controle Absoluto - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/77333.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fOo0jPG6FICGA7mzoKgYNCFzNaU_big.jpg",Coquetel Explosivo - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/188106.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tWBbNikf5ng7BuNGA55MkvhLrag_big.jpg",Coracao Valente - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/242692.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8O76234aBjceZCEOWmpnj7hnhtv_big.jpg",Cores da Justica - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/70486.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eQBhw2ia1BLaskPJiPUOADuYRw0_big.jpg",Corrida Mortal 1 - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/42925.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tzqK7E3dTyScehNhoIucrhGIMF9_big.jpg",Corrida Mortal 2 - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/42924.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uYwlfxjTAq7vNosh0q1JcsXBUpx_big.jpg",Corrida Mortal 3 - Inferno - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42921.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/licxEAA2QYy4zLrd6N03vvrBtzo_big.jpg",Corrida Mortal 4 - Alem da Anarquia - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42919.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYFnMMQ8rJPydN7SBWM5x1mWqcH.jpg",Corridas Clandestinas - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/61568.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vf3GHorBRTCLie2umkAtVkPKlkJ_big.jpg",Cortina de Fogo 2 - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/43186.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8SNJ1Y0j6ARfwl1h9ek1XixXz0G_big.jpg",Covil de Ladroes - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42917.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/i4AWAMPxqNpYTvp0RXL4JSKg7hh_big.jpg",Crime Sem Saída - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/152681.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/slwKFpQPCnBpq1gMAyp2LC1VpNb_big.jpg",Crimes na Madrugada - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/165754.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sWuVJpOWNM0UVD0bGwbLZTzu294_big.jpg",Crônicas da Tribo Fantasma - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/177096.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8xzjJo6aYnFand1WJTAhkj4j4GU_big.jpg",Cyborg - O Dragao do Futuro - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/42912.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hYNJ4KNMVaVgR5JAqC5qlgbJEmJ_big.jpg",Cyborg 2 – 1993
-http://5ce.co:80/movie/pamelaflores/92446060a/203964.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/aCqEpKpMiVuELK0oEtTaGI95O5L_big.jpg",Cyborg 3 A Criacao - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/226833.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBxHNF0risAugpPJeAgLkiUW0P1.jpg",Darc - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42894.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8jXoC81hLq4qXL9Rx2Q1qBlD1rP_big.jpg",Darkman 1 - Vinganca Sem Rosto - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/61569.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fSI2DIvqidbUzfG04NAqnidC53f_big.jpg",Darkman 2 - O Retorno de Durant - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/61570.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7UTbVyodmaN7BEbkO12EJy24yAy_big.jpg",Darkman 3 - Enfrentando a Morte - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/61571.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vcQlG6XMkhea1uOwjUpeA9qCDFu_big.jpg",Daylight - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/172095.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tRm0yqIgoOa3k05SipqOB2yQJ1F_big.jpg",Dead Zone Operacao Resgate - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/217291.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/siODmMjyejgygzGWNK3rzROCeBL_big.jpg",Deja Vu - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/61099.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eG7xCJ3s3O0ihDXN4Nz5cG3mJv5_big.jpg",Demolidor - O Homem Sem Medo - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/193776.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ciVxnOrlREugwcEQp2WuHOBQgeG_big.jpg",Departamento Q - O Ausente - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/42889.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1Kcjf0DXimg44Z1bEuzXUjJHNqi_big.jpg",Depois da Terra - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/216157.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h9hVOfC0gNNGpFFbcJKInQpFXk.jpg",Desafio Mortal - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/43244.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ze3KqOCGQPzi2LCwibjlzBybFVs_big.jpg",Desbravadores - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/241483.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yo2FRPhsifn044quPVyMtYlnoyZ_big.jpg",Desejo de Matar - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61576.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hp2UoNtftbFqwUWym3McsLcjZdP_big.jpg",Desejo de Matar 1 - 1974
-http://5ce.co:80/movie/pamelaflores/92446060a/61572.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/357EWbyESrXogZb4OiPva3yTLmy_big.jpg",Desejo de Matar 2 - 1982
-http://5ce.co:80/movie/pamelaflores/92446060a/61573.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg",Desejo de Matar 3 - 1985
-http://5ce.co:80/movie/pamelaflores/92446060a/61574.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jRCGHVVRkLePDfgAT3yIwX110Rw_big.jpg",Desejo de Matar 4 - Operacao Crackdown - 1987
-http://5ce.co:80/movie/pamelaflores/92446060a/61575.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jWI1LlDxvaE9FjkMo2KQAx8brP5_big.jpg",Desejo de Matar 5  A Face da Morte - 1994
-http://5ce.co:80/movie/pamelaflores/92446060a/226966.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jNiNVc56JuJMQogg4KUucHqkIso_big.jpg",Destruicao - Los Angeles - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42984.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/sJecw4UYpvTgKE2zS9le44Nwuag_big.jpg",Destruição Final: O Último Refúgio - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/140717.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jrPKVQGjc3YZXm07OYMriIB47HM_big.jpg",Detetive Knight Independencia - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/217195.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/kZuxR8SUCjizOhynUtBhmZBSaLU_big.jpg",Deu a Louca em Hollywood - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/150256.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/bj24DqgxSksdfpCZECOXRRcODnb_big.jpg",Deus da Guerra - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61577.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5X4zeznwORmk3c7al9G86fwzkSq_big.jpg",Dia de Treinamento - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/61579.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iBoP7ftfTJsvK0FtxiuRIFdPan.jpg",Diablo: A Última Corrida - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/109361.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ApjFm320etMUO4RZWkcWAJJN31S_big.jpg",Dias de Trovao - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/61580.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/aohWBXqvFv69yhtASWQxncn7auU_big.jpg",Difícil de Matar - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/150806.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dqIfx0MCCnCyCA0k0hdBccWiJMk_big.jpg",Direcao Explosiva - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61581.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/3I2FJaYvikV7MhUp44SbP0X3fw5_big.jpg",Divisao de Homicidios - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/61582.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/jbw7jGT9PFLJQqyoxuXLqbhQmWQ_big.jpg",Donnybrook Luta pela Redencao - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/162708.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7EGElXVSNnqcPjuhXPd6UVUX1rD_big.jpg",Doom Aniquilacao - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/70826.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7vLXw8daw29C0JZ2aJWzYdOdclK_big.jpg",Dragao A Historia de Bruce Lee - 1993
-http://5ce.co:80/movie/pamelaflores/92446060a/208143.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/a7QZdgQpyelhlehIyT6fiwSblAl_big.jpg",Duelo no Asfalto - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/138613.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/5VbkE3ZICUP2WepwOoLhq8u7sTp_big.jpg",Dupla em Furia - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/42881.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/oogzn0EmTSkR2x3Khw7Muswwcpk_big.jpg",Dupla Explosiva - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/188794.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eXjqdCBFg4zjUnc1MbL55hlQmm0_big.jpg",Dupla Explosiva 2 - E a Primeira-Dama do Crime - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/186468.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/wVbkqtqbYrsuN09DJHhoLg30Pv3_big.jpg",Duplo Impacto - 1991
-http://5ce.co:80/movie/pamelaflores/92446060a/42879.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rauTKnFle1sp4aXjtYgx4tCWNiK_big.jpg",Duro de Matar 1 - 1988
-http://5ce.co:80/movie/pamelaflores/92446060a/42877.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fsfD0xmegCJn0FyHeoq9nl0vObV_big.jpg",Duro de Matar 2 - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/42875.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/t5Y18jPdCgdocQPAl2xUnTj9p6M_big.jpg",Duro de Matar 3 - A Vinganca - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/43006.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fjvKqLHjnUm2PxVHjhQ8FLbInbl_big.jpg",Duro de Matar 4 - 4.0 - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/43004.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/bmUFMMbJJA2BXLhhLCGhLFOIPZP_big.jpg",Duro de Matar 5 - Um Bom Dia para Morrer - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/43000.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/eTyvVGHdyG53nhHOySSYGxsVAvN_big.jpg",Efeito Colateral - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/209078.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9Azi1GBNj3gPPwmQWAMcATg7JOl_big.jpg",Elektra - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/61584.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/2QxAzqKf56IMHMMbPkaIkb3Ul6S_big.jpg",Elysium - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/59619.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dkZAsGX4xXsy6rhTnvi5EdbB0Qx_big.jpg",Em Fuga - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/209036.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1rYTtQ14rPB3KOgk5TjkUqiQFch_big.jpg",Em Ritmo de Fuga - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61100.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/a2oVHUO7fN7bVy3lHHApq9tejcZ_big.jpg",Em Terreno Selvagem - 1994
-http://5ce.co:80/movie/pamelaflores/92446060a/185332.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sOo3RztOx8U3fMsmZTdHVm0RVJa_big.jpg",Em Transe - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/81458.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/Foi2Via2fIACRJMB4934D5MP3j_big.jpg",Embattled - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/178701.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/zYduknwFBYYChOCyWZLhAMhagr6_big.jpg",Emboscada - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/198688.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ovgL7y93qKZpOWLlmYsZPf8HzYM_big.jpg",Encontro Explosivo - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/61587.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg",Entre Armas e Brinquedos - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/133928.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1z1OVCvzdqkgeYZvZCqhznUzYf2_big.jpg",Entre Mundos - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43177.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rHXNrxpi1hx39zy4nNz0tX9eeD0_big.jpg",Equilibrium - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/61588.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/csNDw1fIZJA9pHEWR6xbNke6p4q_big.jpg",Equipe Anticorrupcao - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/74277.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/z8q4TzpKdnRLfEiob3CDVR2uAz0_big.jpg",Equipe Assassina - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/81456.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://cms-central.co:80/images/34rLY9dKtTww4HFi0rDih8TnJmE_big.jpg",Era Uma vez no México - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/155576.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/q2rpMRcKjNPYhCDtRu5VSskvVgI_big.jpg",Espada da Vinganca - Ate a Ultima Linha - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/95713.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasYy2Hl5uplpT7jwQflFDANZXm.jpg",Espada de Deus - A Última Cruzada - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/128155.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uTQ42xQ0dWMtppI1AvvNLSFrHMD_big.jpg",Esporte Sangrento - 1993
-http://5ce.co:80/movie/pamelaflores/92446060a/61589.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/f35zQlRTkEO9LBWDWaikiXzQrmD_big.jpg",Esquadrao 6 - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/61318.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fanpmhGSiFPBr6s4HRrszSYxjLx.jpg",Esquadrão Classe A - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/59620.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/89ZwIY5Zx3VoqHaNOvwAAPcbuZE_big.jpg",Esquadrao De Elite - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/209558.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXmhYTdeMiuQFW4VpiWbfjtxtl9.jpg",Esquadrão Red Tails - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/59621.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/hjiB95KorUP0DumhGd0GTIsLMtl_big.jpg",Esquadrão Tigre - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/195484.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/63zbrvPk4jBDm1UnaheJidgw5BJ_big.jpg",Estranhos em Casa - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/91007.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUfEYRW3LAh0hzhf78IWSsUC99b.jpg",Eu Sou a Fúria - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61590.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kVoidpsezSHT7EpNNBiEHSji1Tr_big.jpg",Robô - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/157190.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iPTZGFmPs7HsXHYxiuxGolihjOH_big.jpg",Exército de Ladrões: Invasão da Europa - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/189380.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAJbKga0UUKFcgVF6ujw4TUWCrm.jpg",Exodo - Deuses e Reis - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/43460.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uEf1CrF8sH3vSXbYIggoinf48ch_big.jpg",Falcao  O Campeao dos Campeoes - 1987
-http://5ce.co:80/movie/pamelaflores/92446060a/223609.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSsrQ450oOdEsCymOUo9dYq892w.jpg",Falcão - O Campeão dos Campeões - 1987
-http://5ce.co:80/movie/pamelaflores/92446060a/43440.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAFWuBysqT5JepQFBCmqRsKCFN4.jpg",Falcão Negro em Perigo - 2001
-http://5ce.co:80/movie/pamelaflores/92446060a/44677.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/h7ZrPbCrDoxfzkBnqgdSz5zDCT_big.jpg",Feito na America - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61591.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/w6n1pu9thpCVHILejsuhKf3tNCV_big.jpg",Ferry - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/158367.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWfAnB5t5Pq8i5RTIEVJKeSB32e.jpg",Fim dos Dias - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/65385.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6chRNu0PzJThUAYquf5ISeNhNZ.jpg",Fim dos Tempos - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/61592.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/lfBLbNmZ71R0FPvIu1zShJ6mxt0_big.jpg",Fique Rico ou Morra Tentando - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/95717.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xezeqrrno6ytLyLrbTXRGUk4rdu_big.jpg",Flyboys - 2006
-http://5ce.co:80/movie/pamelaflores/92446060a/206779.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cv1ZuY874Q0uqFkURO8hjI2471z_big.jpg",Fogo Contra Fogo - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/61593.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rxzv8AG98NsBZh8qwDL0RZnE4br_big.jpg",Fora da Trilha - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61224.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/om9LLjsNgwE36OEnIbFxlXK3YDn_big.jpg",Fracao de Segundos - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/145807.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/w8gRUkBfby3f8bHKFsZgzX2euMf_big.jpg",Free Fire - O Tiroteio - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/138616.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/fqhZOmHlARkWiHZmy6D2DRrrxlZ_big.jpg",Frente  a Frente - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/214737.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dOC9vx5PHc9ibRAG96rDQwr1TBW_big.jpg",Fuga da Morte - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/202340.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/qsgF3IyWmNOnYqNtweaqySWpYTz_big.jpg",Fullmetal Alchemist A Vinganca de  Scar - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/211221.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://cms-central.co:80/images/9FJ73MkwQqdzYi7Rh9NEj1hK0fF_big.jpg",Fúria de Titãs - 1981
-http://5ce.co:80/movie/pamelaflores/92446060a/156699.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwswPRTjzSZTzcCEpjubuVU56vo.jpg",Fúria de Titãs - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/61594.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ul7MC2zseye6AGZzH3YkwUGtwcR.jpg",Fúria de Titãs 2 - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/61595.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ral7cnZBQZGFmGaJUxrpcY8Xj3l_big.jpg",Furia em Alto Mar - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42983.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQbNFkRKiv5HWUrJYlaxbfTG7j2.jpg",Fúria em Duas Rodas - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/61596.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/kDt37orVVcJ4tbB2azkMc4nqn1U_big.jpg",Fúria Incontrolável - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/147533.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3efFqfuqOFG1sEiv6buy81YHbpk.jpg",Fúria Sobre Rodas - 2011
-http://5ce.co:80/movie/pamelaflores/92446060a/61597.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tFURJnWv5qW58x4OOrXt1GQEyr1_big.jpg",Furioza - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/204050.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtjttcZdqHsaaRXyrpS7qa74wbo.jpg",G.I. Joe 1 - A Origem de Cobra - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/61598.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pMDcTdeuAtCPJKee8YdOP7Y8ElT_big.jpg",G.I. Joe 2 - Retaliacao - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/61599.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xKrbLdXx4w9DF5NJWKBygD937ZP_big.jpg",Galveston - Destinos Cruzados - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/61600.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/rfQtqLHeisaQ4HlYtNremtUl9oP_big.jpg",Gamer Jogo Mortal - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/212838.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",Gangues de Nova York - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/59622.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/h1ZGBTOjj38NSJlK2ps4K5oNX4F_big.jpg",Garantia de Morte - 1990
-http://5ce.co:80/movie/pamelaflores/92446060a/42980.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/sYoWjGSW4XQRWwFDHf3kdMqtCLr_big.jpg",Garota da Moto - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/191938.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4yMNUroIjxDz8T7zOZWUobQtta.jpg",Garotas sem rumo - 2005
-http://5ce.co:80/movie/pamelaflores/92446060a/61601.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/lxCNQr7lhlrZn6zpwEc0qxFs501_big.jpg",Generation X - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/137663.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xBNVjog86fRYEnjwl4yRbIoXUxC_big.jpg",Ghostland: Terra Sem Lei - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/196142.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",Gigantes de Aço - 2011
-http://5ce.co:80/movie/pamelaflores/92446060a/43439.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",Gladiador - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/42976.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/7iIwHkefTSSvlFDj1pMWSnqvLme_big.jpg",Godzilla Ressurge - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/243497.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/75Yq6zNSwqhvT4vsiHApgpwHl1x_big.jpg",Golpe de Risco - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61602.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bpIRckbOKP6JbKh4TuaYOtp8Op.jpg",Golpe Duplo - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/67263.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/AbSz0ygA92OpwiYDTBVFA8Cf4Aw_big.jpg",Golpes de Vingança - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/201124.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yEXrf09o8wVRFSptYFr6VcqLjPr_big.jpg",Grand Prix - 1966
-http://5ce.co:80/movie/pamelaflores/92446060a/69659.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlgz2XLdLkSI5aNUJLHqUXVQ1GU.jpg",Greyhound - Na Mira do Inimigo - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/107857.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/zfYaxwhKK3qK2Ak8QoujTQvP9ab_big.jpg",Guardioes - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/216730.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ri3zFC4E70j321qNPnO3LWYqTDU_big.jpg",Guerra contra Aliens - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/61604.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/vXpm14VfoKnwaWKbBQi3hpc4TGQ_big.jpg",Guerra Sem Fim: A Espada é a Lei - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/139630.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YOAAlynH3jg7mDRhLe1PgJV2lc.jpg",Guerreira De Sangue - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61605.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fYYmrNoy0BkgcYUoEHgg75BwtHU_big.jpg",Guerreiro da Escuridao - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/42973.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1oC6UwQQm79VxHJUoSi8vcE6Jsm_big.jpg",Gun City - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42971.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1K6Y6leZwe18BydZxbkN2wvQRvA_big.jpg",Hackers: Piratas de Computador - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/192437.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWhH3rD0rzh9L1S9FMeHZkiChU9.jpg",Hardcore: Missão Extrema - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/124236.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9SDTF7fEheoSoIAD14n5TXhNyZf_big.jpg",Harley Davidson e Marlboro Man - Caçada Sem Tréguas - 1991
-http://5ce.co:80/movie/pamelaflores/92446060a/202499.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/lmh8wXm6f3z7wcRqQ8NSXrB8tMQ_big.jpg",Hellboy - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/45803.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/2ZFnYUkYDlwJQvODkQ0JyTRZDSO_big.jpg",Hellboy II - O Exército Dourado - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/152472.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/hdBcoAkSadDdzm7cRxYqTt4a2rO_big.jpg",Herança de Sangue - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/169448.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/op64HvQ8XyB4l2afElLqxuYEuPT_big.jpg",Hércules - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/170992.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/1TU9bV5U33me9k3wao17qqZsFmg_big.jpg",Heróis de Fogo - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/188112.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/AttAWFTg1K4Qxjo12nMhu8NQIFR_big.jpg",Herois de Guerra - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/208754.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg",O Guerreiro Imortal - 1986
-http://5ce.co:80/movie/pamelaflores/92446060a/103867.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LsQzd1CAHuZIYbePt1k84w2mE7.jpg",Hitman 1 - Assassino 47 - 2007
-http://5ce.co:80/movie/pamelaflores/92446060a/63843.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg",Hitman 2 - Agente 47 - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/63842.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fVzXp3NwovUlLe7fvoRynCmBPNc_big.jpg",Homem-Aranha: Sem Volta Para Casa - 2022
-http://5ce.co:80/movie/pamelaflores/92446060a/202414.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fiei8yZWZgTTYYyDobQZnLKDgwT_big.jpg",Horas de Desespero - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/65005.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/8VTYz8SkU8DcBgKNprMjqPNZBgt_big.jpg",Horas Decisivas - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/216950.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/lDj5AEPO121NJIMZBFXrMs7Y06A_big.jpg",Hotel Artemis - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/42968.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fshqvFBihzipvA5l9hwHQVuZCNG_big.jpg",I Am Vengeance: Retaliation - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/185618.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/f5dMAWXLjp8duA44Lp40WZFGZB0_big.jpg",iBoy - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/200542.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/etMxKseW67499tUJonLNHXTF538_big.jpg",Ida Red - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/202343.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay7GJqX63hPuFJGeQq2sAuePNyK.jpg",Impacto Profundo - 1998
-http://5ce.co:80/movie/pamelaflores/92446060a/63845.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9lYAj14i5SDY0HvZ21EhXVi8A4E_big.jpg",Impasse - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/201450.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/kgbDomQPeLpgl6vB6Ehi8dYhQGQ_big.jpg",Implacavel - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/43138.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/9UFRFJ8PoXdy1OA6XW0i1hGjyFF_big.jpg",Impuros  O Filme - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/209147.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/n1LVwlMRU49i88u5NnI4haKCemZ_big.jpg",Independence Day 1 - 1996
-http://5ce.co:80/movie/pamelaflores/92446060a/43456.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh7dnhLboTzjNfPVTsqr8sBo6wh.jpg",Independence Day 2 - O Ressurgimento - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/43455.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cJP4wT4RB85E3gbwRe3LWJORXXM_big.jpg",Indiana Jones e a Ultima Cruzada - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/42962.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/vAIj9NwY5fTzlghxEQwfxajPYGf_big.jpg",Indiana Jones e o Reino da Caveira de Cristal - 2008
-http://5ce.co:80/movie/pamelaflores/92446060a/42959.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8cD0Zh4nNwsc07xoyxPs4WCi6ER_big.jpg",Indiana Jones e o Templo da Perdicao - 1984
-http://5ce.co:80/movie/pamelaflores/92446060a/42954.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xh4fYbcABTsF4cqPzMkD5QSv1z.jpg",Indiana Jones e os Caçadores da Arca Perdida - 1981
-http://5ce.co:80/movie/pamelaflores/92446060a/42957.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/dFlI0Vb4JOsRXG1JSS2Ufs6Sp8k_big.jpg",Inferno - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/173270.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg",Inferno - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/42952.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dmO2U0ckWkE6T5hyYY3rUtSH9X4_big.jpg",Infiesto - 2023
-http://5ce.co:80/movie/pamelaflores/92446060a/217482.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ef2ozkE4AiWwRnyfc9s05sEtAIT_big.jpg",Infiltrado - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/186431.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/iqP3m9EdoDvSzi6lPMmpjOX6vLY_big.jpg",Infiltrado Na Klan - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43025.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/mLvjQ0IIdzZfQzQXULI7sIVxd8V_big.jpg",Infinite - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/179278.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg",Inimigo do Estado - 1998
-http://5ce.co:80/movie/pamelaflores/92446060a/63849.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tzz1t8UvSvISZxDxBmEd531nIPg_big.jpg",Inimigo Mortal - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/61416.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/b5n8VuzaAywM1fIR3ECj3dvoO7B_big.jpg",Inimigos de Sangue - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/145808.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/6g5L4lpsQ1jYDJpMn1XGYOGzlar_big.jpg",Inspetor Bugiganga 2 - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/204165.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4Mynv1TcKx5AwCsv1wr5Y2hnm6S_big.jpg",Instinto Assassino - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/207083.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/awFeMJIo2KibIBCrzcsgmcZnMHf_big.jpg",Instinto Predador - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/66541.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/m8lkQBZWbKj9SwDNT6W1O9ZMA7M_big.jpg",Instinto Radical - 2000
-http://5ce.co:80/movie/pamelaflores/92446060a/43193.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/2JPvshfwo2xhom2Hxu88rOrgt3Q_big.jpg",Invasao A Casa Branca - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/43436.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wazDH9pNQxLzBKCZvN2iMduXxGb.jpg",Invasão à Londres - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/43434.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qinFqfMF2HrjplEK5uQliLyryAk_big.jpg",Invasao ao Servico Secreto - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/69644.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QqHtwk0oHYed26zra9WGQGyBSm.jpg",Invasão Zumbi - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/134161.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/dGVUiqnahQ4ZZRchGRpO2SyhtQY_big.jpg",Invasão Zumbi 2: Península - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/137422.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/14Wj4HZOdPmN2DXNbXXvJH2DwIf_big.jpg",Jack Reacher 1 - O Ultimo Tiro - 2012
-http://5ce.co:80/movie/pamelaflores/92446060a/63851.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/rR2UYbrTIrDiZIyyuWxx8c9z8ZU_big.jpg",Jack Reacher 2: Sem Retorno - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/165548.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg",Jack: O Caçador de Gigantes - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/63850.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/xA7N41glw17MBQtcWSm2eBlBRuG_big.jpg",Jason Bourne - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/203960.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hba1qQ4Jon4fmCkylfzDrdbBcAo.jpg",Jo Pil-ho: The Dawning Rage  -2019
-http://5ce.co:80/movie/pamelaflores/92446060a/101296.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/qcFFvAZtoHs5s0C6GjkWhTD5aSW_big.jpg",Joana D'Arc - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/186821.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBMs5X5VH6Ymr9X5YYtw2huxzTD.jpg",Jogada Divina - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/63852.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3js5mLX02ZcJNv9J8VaKUNiLq.jpg",Jogo Entre Ladrões - 2009
-http://5ce.co:80/movie/pamelaflores/92446060a/117289.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://tinyurl.com/3hbhmabt",Jogo Perigoso - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/189889.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/rboZslo3eQWKBQ3QvlO6wGV0J3K_big.jpg",John Wick 1 - De Volta ao Jogo - 2014
-http://5ce.co:80/movie/pamelaflores/92446060a/43111.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/k36UzsRQaY6E055cdYPdYbyREer_big.jpg",John Wick 2 - Um Novo Dia para Matar - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/43113.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/bE6XutmB6tcvzTHBx4JGJLlzouM_big.jpg",John Wick 3 -  Parabellum - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/42704.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/N4vioZ2pDBQWGBgTGxBmF82vwm_big.jpg",Johnny English - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/140679.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/cnchtu8rXPFAkvii9WC4htmt9CZ_big.jpg",Johnny English 3.0 - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43024.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/gYZAHan5CHPFXORpQMvOjCTug4E_big.jpg",Jolt - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/175400.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/ageBP5EWpmdGKJmp0RhsNDIDRh5_big.jpg",Jonah Hex - Caçador de Recompensas - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/158018.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8SX0Yd6D6YFR3EyXlJmDoaKRwbL_big.jpg",Jungle - Protegendo a Selva - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/77549.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/fbZi8jRG0tZTdXx3GH6CZthkFzc_big.jpg",Justiça Brutal - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/141904.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/wrwhbYVJK3O85tRLrkVjCXZniIJ_big.jpg",Justiça em Família - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/180912.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg",K-9 - Um Policial Bom pra Cachorro - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/43100.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkI06uQJCnujYoN6MJzjnsxryaI.jpg",K-9: D.P.: Um Policial Bom pra Cachorro - 2002
-http://5ce.co:80/movie/pamelaflores/92446060a/43102.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZsF9u6bBp46mMXTOpSAqowlZW4.jpg",K-911: Um Policial Bom Pra Cachorro 2 - 1999
-http://5ce.co:80/movie/pamelaflores/92446060a/43098.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/tAMQREOoztvluqrfHiGHFVfB04B_big.jpg",Karatê Kid - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/43087.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/dAB64Bp7S4JaMutZMEOWSycdge2_big.jpg",Karatê Kid - A Hora da Verdade - 1984
-http://5ce.co:80/movie/pamelaflores/92446060a/141552.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSne9mfUcL8QCGxF891LWa7lZNI.jpg",Karatê Kid 2 - A Hora da Verdade Continua - 1986
-http://5ce.co:80/movie/pamelaflores/92446060a/43094.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46q3SjOI57iB6jm7W6RrM03FZb.jpg",Karatê Kid 3 - O Desafio Final - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/43091.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.me:80/images/t54FvbWtndSRSFRZoVZVoCHspQp_big.jpg",Karate Kid 4 - A Nova Aventura - 1994
-http://5ce.co:80/movie/pamelaflores/92446060a/146030.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/fMFh6ESVe4m1iHQilNybOpScjYB_big.jpg",Kart Nervoso - 2020
-http://5ce.co:80/movie/pamelaflores/92446060a/70828.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/uQWgSRXeYRWCvGIX9LDNBW6XBYD_big.jpg",Kate - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/184119.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/h1tgT77aMRnMstr3soizs0ALir_big.jpg",Khutulun A Princesa Guerreira - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/229960.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/8citjdBmjddZjlPsAHEyCKwGVvD_big.jpg",Kick - Ass  Quebrando Tudo - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/205332.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4LUzG0blTn6JMhUwXSmjPqNFNXL_big.jpg",Kick - Ass 2 - 2013
-http://5ce.co:80/movie/pamelaflores/92446060a/205333.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqhTNSrOcU0rgN7QSTckp9p5yyx.jpg",Kickboxer - A Vingança do Dragão - 2016
-http://5ce.co:80/movie/pamelaflores/92446060a/61565.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/e50XYhyoaJpJUNn18Fs4FsZgtfx_big.jpg",Kickboxer 1- O Desafio do Dragao - 1989
-http://5ce.co:80/movie/pamelaflores/92446060a/43084.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4txwz6Tqt2WM8SnvBDGnGJxjLAN.jpg",Kickboxer 2 - A Vingança do Dragão - 1991
-http://5ce.co:80/movie/pamelaflores/92446060a/61561.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/6Bkul5qft7BFHoHaPEs7ojx5Kr4_big.jpg",Kickboxer 3 - A Arte da Guerra - 1992
-http://5ce.co:80/movie/pamelaflores/92446060a/61562.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zRXzWRBt1bCdJa0naOs5RX8PSC.jpg",Kickboxer 4 - O Agressor - 1994
-http://5ce.co:80/movie/pamelaflores/92446060a/61563.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6essQQLBu0YuYVau1xuihfkdGJ.jpg",Kickboxer 5 - O Desafio Final - 1995
-http://5ce.co:80/movie/pamelaflores/92446060a/61564.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yUteP76nVPVqtbxPzW5qDsNoJOI_big.jpg",Kickboxer 7- A Retaliacao - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/43081.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/v7TaX8kXMXs5yFFGR41guUDNcnB_big.jpg",Kill Bill: Volume 1 - 2003
-http://5ce.co:80/movie/pamelaflores/92446060a/43078.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/4niMDDzBOR1jf4jRshLRaG0Cuaz_big.jpg",Kill Bill: Volume 2 - 2004
-http://5ce.co:80/movie/pamelaflores/92446060a/43075.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/yyM6NktVICFnRj7tyvYBMUUq6g3_big.jpg",Kin - 2018
-http://5ce.co:80/movie/pamelaflores/92446060a/63853.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/j2S0cWrQXU8jy5Yj9ElPIl92qm5_big.jpg",Kingdom - 2019
-http://5ce.co:80/movie/pamelaflores/92446060a/240437.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/pVL9AyKKLfUwrYD6jhdsI15gBQ7_big.jpg",Kings Man A Origem - 2021
-http://5ce.co:80/movie/pamelaflores/92446060a/205856.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/psXtNAL9YJtTzqyCiOL1BLLxN6C_big.jpg",Kingsman - Servico Secreto - 2015
-http://5ce.co:80/movie/pamelaflores/92446060a/63855.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/k8lduAlGOXDYYKSlBeJ0CDyra0x_big.jpg",Kingsman: O Círculo Dourado - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/63854.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="http://5ce.co:80/images/o44726g0aFhFsFIvQcz98yj7OrB_big.jpg",Kong: A Ilha da Caveira - 2017
-http://5ce.co:80/movie/pamelaflores/92446060a/44204.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlMlXCzoehhc7fSYJWepUBZFdTW.jpg",Ladrões - 2010
-http://5ce.co:80/movie/pamelaflores/92446060a/63857.mp4
-#EXTINF:-1 group-title="ACAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uM1EHWxxMLpj0kUVYTzhN4t59ya.jpg",Lágrimas do Sol - 2003
-
-############################################################################ Filmes
-
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/313024921/s592/bob-marley-one-love" group-title="Filmes",Bob Marley: One Love 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312665951/s592/a-arte-de-amar-2024" group-title="Filmes",A Arte d Amar 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28355490.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312751198/s592/murder-mubarak" group-title="Filmes",Assassinato de Elite 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt27028399.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311713011/s592/madame-teia" group-title="Filmes",Madame Teia 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312467584/s592/o-retorno-dos-thundermans" group-title="Filmes",O Retorno dos Thundermans 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt26943420.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312531712/s592/ricky-stanicky" group-title="Filmes",Ricky Stanicky 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1660648.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312531815/s592/damsel-2023" group-title="Filmes",Donzela 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13452446.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/192157583/s592/o-rececionista" group-title="Filmes",O Recepcionista 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312751707/s592/jaque-mate" group-title="Filmes",Xaque Mate 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt30850554.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/197620495/s592/a-guerra-do-hamburguer" group-title="Filmes",A Guerra do Hambúrguer 1997
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119215.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307642436/s592/good-burger-2" group-title="Filmes",Good Burger 2 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt25289836.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311662879/s592/the-beekeeper-2024" group-title="Filmes",Beekeeper Rede de Vingança 2024 
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15314262.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312371481/s592/dos-vacas-y-una-burra" group-title="Filmes",O Vale do amor 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13496136.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305564432/s592/um-desastre-maravilhoso" group-title="Filmes",Beautiful Disaster - Um Desastre Maravilhoso 2023
+Belo desastre
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312376747/s592/lifemark" group-title="Filmes",Marcas da Vida 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt20864704.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/137718283/s592/take-me" group-title="Filmes",Leve-me 2017
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6598626.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/262590659/s592/through-my-window" group-title="Filmes",Através da minha Janela 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14463484.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306057036/s592/through-my-window-across-the-sea" group-title="Filmes",Através da minha Janela 2: Além do Mar 2023
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21245882.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312587122/s592/a-traves-de-tu-mirada" group-title="Filmes",Através da minha Janela 3: Olho nos olhos 2024
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28105944.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/175714142/s592/40-dias-e-40-noites" group-title="Filmes",40 dias e 40 noites 2002
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0243736.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/213186590/s592/boneca-mecanica" group-title="Filmes",Cherry 2000
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0092746.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/254253708/s592/yes-god-yes" group-title="Filmes",Acampamento do pecado 2020
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt8949056.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/246930713/s592/ligados-pelo-amor" group-title="Filmes",Ligados pelo Amor 2013
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt2205697.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/263362051/s592/i-want-you-back" group-title="Filmes",Volta pra Mim 2022
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6462958.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/302785318/s166/os-reis-de-dogtown" group-title="Filmes",Os Reis de Dogtown 2022
-http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0355702.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/270200285/s592/paixao-sem-limites" group-title="Filmes",Paixão Sem Limites 2010
-http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0106627.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/248509179/s592/separados-pelo-casamento" group-title="Filmes",Separados pelo Casamento 2006
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Separados pelo Casamento 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0452594.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311714148/s592/fazendo-meu-filme" group-title="Filmes",Fazendo meu Filme 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Fazendo meu Filme
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15386618.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/192157583/s592/o-rececionista" group-title="Filmes",O Recepcionista 2020
-http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311668443/s592/mamonas-assassinas-o-filme" group-title="Filmes",Mamonas Assassinas O Filme 2020
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mamonas Assassinas O Filme
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310156599/s592/o-leitor" group-title="Filmes",O Leitor 2008
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/311386874/s592/badland-hunters" group-title="Filmes",Em Ruínas 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Ruínas 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306750877/s592/unreachable" group-title="Filmes",Um Verão só para Nós 2021
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Verão só para Nós 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310246807/s592/meu-cunhado-e-um-vampiro" group-title="Filmes",Meu Cunhado é um Vampiro 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Cunhado é um Vampiro 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/308488248/s592/siberian-sniper" group-title="Filmes",A Última Esperança Soviética 2021
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Última Esperança Soviética 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/161966297/s592/rucula-com-tomate-seco" group-title="Filmes",Rúcula com Tomate Sefo 2017
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rúcula com Tomate Sefo
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310277426/s592/kho-gaye-hum-kahan" group-title="Filmes",Desencaixados 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desencaixados
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/190237230/s592/pure-luck" group-title="Filmes",É Pura Sorte 1991
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",É Pura Sorte
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307073590/s592/talk-to-me-2022" group-title="Filmes",Fale Comigo 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fale Comigo
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312737435/s592/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes" group-title="Filmes",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/191694302/s592/alibi-com" group-title="Filmes",Álibi.com 2017
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Álibi.com
 http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/242329771/s592/atakan" group-title="Filmes",Ritual Maldito 2020
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ritual Maldito 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312184460/s592/saw-x" group-title="Filmes",Jogos Mortais x 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Mortais 10
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/130143298/s592/irreplaceable-you" group-title="Filmes",Perfeita Pra Você 2018
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perfeita Pra Você
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310003842/s592/thanksgiving" group-title="Filmes",Feriado Sangrento 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feriado Sangrento 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312869330/s592/vingadores-endgame" group-title="Filmes",Vingadores Ultimato 2019
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vingadores Ultimato
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/309058869/s592/last-survivors" group-title="Filmes",Últimos Sobreviventes 2021
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Últimos Sobreviventes 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/312971276/s592/road-house" group-title="Filmes",O matador d aluguel 2024
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O matador d aluguel 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/310487900/s592/the-feels" group-title="Filmes",Despedida de Solteira 2017
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Despedida d Solteira 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307450540/s592/os-mercenarios-4" group-title="Filmes",Os Mercenários 4 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Mercenários 4
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307619032/s592/desculpa-mas-vou-te-matar" group-title="Filmes",Desculpa Mais vou te Matar 2021
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desculpa Mais vou te Matar 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305867067/s592/vengeance-2020" group-title="Filmes",A Cor da Vingança 2020
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Cor da Vingança 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/307468075/s592/en-roue-libre" group-title="Filmes",Tudo Sob Descontrole 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tudo Sob Descontrole 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/305654821/s592/love-on-the-rock" group-title="Filmes",Perseguição em Malta 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perseguição em Malta
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/263614968/s592/ask-taktikleri" group-title="Filmes",Táticas do Amor 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Tática de Amor 
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/306520001/s592/ask-taktikleri-2" group-title="Filmes",Táticas de Amor 2 2023
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tática de Amor 2
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/182883005/s592/os-gatoes-uma-nova-balada" group-title="Filmes",Os Gatões Uma Nova Balada 2005
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada 
 http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/290546018/s592/os-gatoes-2-o-inicio" group-title="Filmes",Os Gatões 2 O Início 2007
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/143249555/s592/genio-indomavel" group-title="Filmes",Gênio Indomável 1997
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Gênio Indomável
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/295371732/s592/malibu-crush" group-title="Filmes",Malibu Crush 2022
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/200953571/s592/diario-de-uma-adolescente" group-title="Filmes",Diário de uma adolescente 2006
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de uma adolescente 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
-#EXTINF:-1  tvg-logo="https://images.justwatch.com/poster/279313978/s592/diario-de-um-adolescente" group-title="Filmes",Diário de um adolescente 1995
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
 
 
