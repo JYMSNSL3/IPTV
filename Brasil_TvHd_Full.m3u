@@ -2,13 +2,16 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",30/07/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",01/08/24
 https://youtu.be/g7tJtrDiTtM?t=244
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL 3",BY JYMSNSL
 https://youtu.be/g7tJtrDiTtM?t=244
 
 ############################################################################ Canais | ABERTO
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ
+http://186.226.215.132:80/carlos123/carlos123/10
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
@@ -23,7 +26,7 @@ http://hzcdn.vood.top:80/hls/2374_.m3u8
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
 https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
@@ -32,13 +35,16 @@ https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 http://15.235.15.230:14513/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP SD
-http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+http://cdn-4.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
 http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",TV Morena MS HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1099
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA
+http://186.226.215.132:80/carlos123/carlos123/130
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA SD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -118,7 +124,7 @@ https://embedflix.net/canal/live.php?ch=4
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP SD
-https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
@@ -155,6 +161,9 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 
 #EXTINF:-1  tvg-logo="https://imgur.com/56l2uCS.png" group-title="Canais | ABERTO",TV Correio- N é 24h
 https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MT0PA10.png" group-title="Canais | ABERTO",RIC TV Curitiba YT
+https://ythls.armelin.one/channel/UCBiZg7ojHPU8ShY7s8xQ6bg.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band BA- N é 24h  
 https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
@@ -212,6 +221,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="Canais | ABERTO",TV Tibagi - Rede Massa 
 https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="Canais | ABERTO",TV Iguacu - Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="Canais | ABERTO",TV Guará - Rede Massa
 https://cdn-cdn-guara.ciclano.io:1443/cdn-guara/cdn-guara/playlist.m3u8
@@ -277,7 +289,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura Brasil 
-https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/playlist.m3u8
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
@@ -336,28 +348,28 @@ https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 https://cr7v.short.gy/manoiptvfree/ESPNSD/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
-https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
+https://cdn-4.nxplay.com.br/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN UHD
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD-A
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD-B
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD [Alter]
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/130
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 HD
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 FHD
 http://cdnexpress.homelinux.net/live/47.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 SD
-https://cdn-3.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
@@ -465,22 +477,22 @@ https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT
 https://cr7v.short.gy/JOGO/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
 https://cr7v.short.gy/JOGO2/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
 https://cr7v.short.gy/JOGO3/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
 https://cr7v.short.gy/JOGO4/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
 https://cr7v.short.gy/JOGO5/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
 https://cr7v.short.gy/JOGO6/testechamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS DE NOTÍCIAS 
@@ -564,6 +576,9 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ############################################################################ Canais | VARIEDADES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Canais | VARIEDADES",Canal UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
@@ -2390,6 +2405,15 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Canais | INTERNACIONAL",Euronews Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | INTERNACIONAL",FOX News
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="Canais | INTERNACIONAL",FOX News NOW | EUA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Canais | INTERNACIONAL",FOX News NOW | EUA 
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9J47rsV.png" group-title="Canais | INTERNACIONAL",Sony Canal Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
