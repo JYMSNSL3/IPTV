@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",15/08/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",20/08/24
 https://youtu.be/g7tJtrDiTtM?t=244
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL 3",BY JYMSNSL
@@ -307,9 +307,7 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 https://ythls.armelin.one/channel/UCjOJvvYe6tyEHY21OD33h8A.m3u8
 
 ############################################################################ CANAIS ESPORTES
- 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV SD
-http://dzcdn.vood.top:80/hls/546_.m3u8
+
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
@@ -414,9 +412,6 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1121
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1122
 
 ############################################################################ CANAIS PREMIERE
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-http://izcdn.vood.top:80/hls/492_.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD [Alter]
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/165
@@ -560,17 +555,20 @@ https://cdn-3.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD [Alter]
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/498
+http://dzcdn.vood.top/hls/479_.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/498
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD [Alter]
 http://cdnexpress.homelinux.net/live/72.m3u8
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News SD
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
@@ -621,6 +619,9 @@ http://maistop.net:80/live/free/free/1.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/423
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD [Alter]
+http://dzcdn.vood.top:80/hls/377243_.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow UHD
 https://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
