@@ -188,7 +188,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/244109_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/244107_.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV DF
-
+http://zutufo.in:80/live/781487031/K788a6763d/244085_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical 
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
@@ -405,6 +405,9 @@ http://zutufo.in:80/live/781487031/K788a6763d/212_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/135
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
+https://new.ejaculacaoretardada.site/espn2/index.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/129
