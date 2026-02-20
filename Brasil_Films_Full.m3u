@@ -1,8 +1,8 @@
-#EXTM3U ############################################################################ Canais | ABERTO 31/02/2026
+#EXTM3U ############################################################################ Canais | ABERTO 31/03/2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO - 31/02/2026",BY JYMSNSL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO - 31/03/2026",BY JYMSNSL
 https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDowncom_YouTube_A-MELHOR-NOVA-TOP-JYMSPLAY-TV-F.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="BY JYMSNSL",JYMSPALY TV 31/02/2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="BY JYMSNSL",JYMSPALY TV 31/03/2026
 https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDowncom_YouTube_A-MELHOR-NOVA-TOP-JYMSPLAY-TV-F.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="Pluto TV | Filmes",Cine Sucessos | Pluto TV
