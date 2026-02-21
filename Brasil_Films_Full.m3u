@@ -9,11 +9,7 @@ https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDown
 https://dimagratis.online/-JymsNsl
 
 
-############################################################################ Canais | ABERTO
-########################################################################################################################################################################
-########## FIMES #######################################################################################################################################################
-########################################################################################################################################################################
-########## CINE SUCESSOS ###############################################################################################################################################
+############################################################################ FIMES | CINE SUCESSOS
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Pluto TV | Filmes",Cine Sucessos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## FILMES AÇÃO #################################################################################################################################################
@@ -76,10 +72,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032
 ########## Filmes Aventura ###########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="Pluto TV | Filmes",Filmes Aventura | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-################################################################################################################################################################
-########## SÉRIES ##############################################################################################################################################
-################################################################################################################################################################
-########## SÉRIES CRIMINAIS ####################################################################################################################################
+
+############################################################################ SÉRIES | SÉRIES CRIMINAIS
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Pluto TV | Séries",Séries Criminais | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## CSI: MIAMI ###########################################################################################################################################
@@ -118,10 +113,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0
 ########## YOUNGER #########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Pluto TV | Séries",Younger | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-############################################################################################################################################################
-########## RETRÔ ###########################################################################################################################################
-############################################################################################################################################################
-########## PLUTO RETRÔ ####################################################################################################################################
+
+############################################################################ RETRÔ | PLUTO RETRÔ
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Pluto TV | Retrô",Pluto Retrô | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## A FEITICEIRA ####################################################################################################################################
@@ -139,16 +133,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4
 ########## DESENHOS CLÁSSICOS #########################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" group-title="Pluto TV | Retrô",Desenhos clássicos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## NOVELAS ##############################################################################################################################################
-#################################################################################################################################################################
-########## NOVELAS ##############################################################################################################################################
+
+############################################################################ NOVELAS | NOVELAS
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Pluto TV | Novelas",Novelas | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#######################################################################################################################################################################
-########## REALIDADE ##################################################################################################################################################
-#######################################################################################################################################################################
-########## MTV DRAG RACE ALL STAR #####################################################################################################################################
+
+############################################################################ REALIDADE | MTV DRAG RACE ALL STAR
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Pluto TV | Realidade",MTV Drag Race All Star | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## MTV TINDER #####################################################################################################################################
@@ -178,10 +170,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6
 ########## MASTER SHARK TANK BRASIL #################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png" group-title="Pluto TV | Realidade",Shark Tank Brasil | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6647c0b91050b60008390de4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-###################################################################################################################################################################
-########## CURIOSIDADES ###########################################################################################################################################
-###################################################################################################################################################################
-########## NATUREZA ###############################################################################################################################################
+
+############################################################################ CURIOSIDADES | NATUREZA
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Pluto TV | Curiosidades",Natureza | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## PAISAGEMS ###############################################################################################################################################
@@ -235,10 +226,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d
 ########## DOCUMENTÁRIOS ####################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Pluto TV | Curiosidades",Documentários | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#######################################################################################################################################################
-########## INVESTIGAÇÃO ###############################################################################################################################
-#######################################################################################################################################################
-########## INVESTIGAÇÃO ###############################################################################################################################
+
+############################################################################ INVESTIGAÇÃO | INVESTIGAÇÃO
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Pluto TV | Investigação",Investigação | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## ARQUIVOS DO FBI ###############################################################################################################################
@@ -250,10 +240,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae
 ########## MISTÉRIOS SEM SOLUÇÃO ###############################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Pluto TV | Investigação",Mistérios sem solução | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#######################################################################################################################################################
-########## NOTÍCIAS ###################################################################################################################################
-#######################################################################################################################################################
-########## BM&C NEWS #############################################################################################################################################
+
+############################################################################ NOTÍCIAS | BM&C NEWS
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="Pluto TV | Notícias",BM&C News News | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## EURONEWS ##################################################################################################################################################
@@ -271,10 +260,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b4
 ########## NEW BRASIL ##################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="Pluto TV | Notícias",New Brasil | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## ESPORTES #############################################################################################################################################
-#################################################################################################################################################################
-########## TV ESPORTES ##########################################################################################################################################
+
+############################################################################ ESPORTES | TV ESPORTES
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Pluto TV | Esportes",TV Esportes | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## FIFA+ ####################################################################################################################################################
@@ -304,10 +292,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/664f76674
 ########## WORLD POKER TOUR ##########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Pluto TV | Esportes",World Poker Tour | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## SOUTH PARK ###########################################################################################################################################
-#################################################################################################################################################################
-########## SOUTH PARK - ROCK AND ROLL ###########################################################################################################################
+
+############################################################################ SOUTH PARK | SOUTH PARK - ROCK AND ROLL
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66ba7c8814a2bb000875cff0/colorLogoPNG.png" group-title="Pluto TV | South Park",South Park - Rock and Roll | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66ba7c8814a2bb000875cff0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## SOUTH PARK - COLEÇÃO CARTMAN ###########################################################################################################################
@@ -322,10 +309,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713de
 ########## SOUTH PARK - COLEÇÃO STAN ###########################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Pluto TV | South Park",South Park - Coleção Stan | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## COMÉDIA ##############################################################################################################################################
-#################################################################################################################################################################
-########## TV COMÉDIA ########################################################################################################################################
+
+############################################################################ COMÉDIA | TV COMÉDIA
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Pluto TV | Comédia",TV Comédia | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## COMEDY CENTRAL ########################################################################################################################################
@@ -340,19 +326,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c16
 ########## THE PET COLLECTIVE ########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Pluto TV | Comédia",The Pet Collective | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## ENTRETENIMENTO #######################################################################################################################################
-#################################################################################################################################################################
-########## TV CULTURA ########################################################################################################################################
+
+############################################################################ ENTRETENIMENTO | TV CULTURA 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Pluto TV | Entretenimento",TV Cultura | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## REDE TV ########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Pluto TV | Entretenimento",Rede TV! | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## ESTILO DE VIDA #######################################################################################################################################
-#################################################################################################################################################################
-########## SALON LINE ########################################################################################################################################
+
+############################################################################ ESTILO DE VIDA | SALON LINE 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/colorLogoPNG.png" group-title="Pluto TV | Estilo de vida",Salon Line | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## TV VIAGENS ########################################################################################################################################
@@ -373,10 +357,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805
 ########## CULTNE TV ########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Pluto TV | Estilo de vida",Cultne TV | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66296e755a402e00086a2c47/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## ANIME & GEEK #########################################################################################################################################
-#################################################################################################################################################################
-########## ANIME ###########################################################################################################################################
+
+############################################################################ ANIME & GEEK | ANIME 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Pluto TV | Anime & Geek",Anime | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## ANIME AÇÃO ###########################################################################################################################################
@@ -430,10 +413,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/664df5221
 ########## PLUTO TV GAMING UBISOFT ###########################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="Pluto TV | Anime & Geek",Pluto TV Gaming por Ubisoft | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## TEEN #################################################################################################################################################
-#################################################################################################################################################################
-########## NICKTEEN ###########################################################################################################################################
+
+############################################################################ TEEN | NICKTEEN 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Pluto TV | Teen",Nickteen | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## NICKELODEON ICARLY ####################################################################################################################################
@@ -445,10 +427,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130
 ########## CLUBE DO TERROR ###########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Pluto TV | Teen",Clube do Terror | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## INFANTIL #############################################################################################################################################
-#################################################################################################################################################################
-########## PAW: PATRULHA CANINA #################################################################################################################################
+
+############################################################################ INFANTIL | PAW: PATRULHA CANINA 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png" group-title="Pluto TV | Infantil",PAW: Patrulha Canina | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## NICKJR. CLUB #################################################################################################################################
@@ -517,10 +498,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 ########## CINEMINHA #################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png" group-title="Pluto TV | Infantil",Cineminha | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#################################################################################################################################################################
-########## MÚSICA ###############################################################################################################################################
-#################################################################################################################################################################
-########## MTV BIGGEST POP #################################################################################################################################
+
+############################################################################ MÚSICA | MTV BIGGEST POP
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Pluto TV | Música",MTV Biggest Pop | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ########## MTV CLASSIC #################################################################################################################################
@@ -544,9 +524,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66d60a1ba
 ########## SHOWS POR STINGRAY #################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Pluto TV | Música",Show por Stingray | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-########## TV KARAOKÊ #################################################################################################################################
-
-#################################################################################################################################################################
-########## MÚSICA ###############################################################################################################################################
-#################################################################################################################################################################
-########## MTV BIGGEST POP #################################################################################################################################
