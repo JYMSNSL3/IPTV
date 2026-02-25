@@ -5,7 +5,30 @@ https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDown
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="BY JYMSNSL",JYMSPALY TV 31/03/2026
 https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDowncom_YouTube_A-MELHOR-NOVA-TOP-JYMSPLAY-TV-F.m3u8
 
-############################################################################ FIMES | CINE SUCESSOS
+############################################################################ FILMES RUNTIME 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="Canais | FILMES",Runtime TV e Filmes Grátis
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Canais | FILMES",Runtime Comédia HD 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="Canais | FILMES",Runtime Família 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Canais | FILMES",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Canais | FILMES",Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Canais | FILMES",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+############################################################################ FILMES | PLUTO FILMES
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Pluto TV | Filmes",Cine Sucessos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
