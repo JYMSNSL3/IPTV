@@ -1,10 +1,9 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
-## 📺 TV Meu Tédio
-## 👩🏽‍💻 Editora: Helen Fernanda | Brasília | Brasil 🇧🇷
-## 🔗 Dicas de EPG e apps: www.meutedio.com.br/iptv
-## 📧 Contato e 💰 Pix: pix@meutedio.com 
-### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade 
-########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ################
+#EXTM3U ############################################################################ Canais | ABERTO 31/03/2026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO - 31/03/2026",BY JYMSNSL
+https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDowncom_YouTube_A-MELHOR-NOVA-TOP-JYMSPLAY-TV-F.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="BY JYMSNSL",JYMSPALY TV 31/03/2026
+https://api2.mp4.to/static/downloads/3556e386-896d-40e4-8147-add7b0275323/YTDowncom_YouTube_A-MELHOR-NOVA-TOP-JYMSPLAY-TV-F.m3u8
 
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
